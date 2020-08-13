@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam playtime</a>
 ```text
 🎮 Dota 2                           🕘 1509 hrs 4 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 696 hrs 6 mins

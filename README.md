@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1509 hrs 4 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 697 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 315 hrs 22 mins
+🔫 Counter-Strike: Global Offensive 🕘 315 hrs 34 mins
 🎮 The Binding of Isaac: Rebirth    🕘 149 hrs 58 mins
 🎮 The Binding of Isaac             🕘 125 hrs 36 mins
 ```

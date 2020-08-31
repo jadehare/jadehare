@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 43 mins
 🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 28 mins
 🎮 Dead Cells                       🕘 0 hrs 33 mins
 🎮 Aseprite                         🕘 2 hrs 54 mins
+🎮 Microsoft Flight Simulator       🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

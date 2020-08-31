@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam playtime</a>
+#### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 1509 hrs 9 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 697 hrs 32 mins
-🔫 Counter-Strike: Global Offensive 🕘 315 hrs 34 mins
-🎮 The Binding of Isaac: Rebirth    🕘 149 hrs 58 mins
-🎮 The Binding of Isaac             🕘 125 hrs 36 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 58 mins
+🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 28 mins
+🎮 Torchlight II                    🕘 0 hrs 26 mins
+🎮 Dead Cells                       🕘 0 hrs 33 mins
+🎮 Aseprite                         🕘 2 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

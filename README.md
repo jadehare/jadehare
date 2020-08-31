@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 58 mins
+🎮 Dota 2                           🕘 0 hrs 5 mins
+🔫 Counter-Strike: Global Offensive 🕘 1 hrs 43 mins
 🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 28 mins
-🎮 Torchlight II                    🕘 0 hrs 26 mins
 🎮 Dead Cells                       🕘 0 hrs 33 mins
 🎮 Aseprite                         🕘 2 hrs 54 mins
 ```

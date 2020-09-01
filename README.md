@@ -7,7 +7,7 @@
 🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 28 mins
 🎮 Dead Cells                       🕘 0 hrs 33 mins
 🎮 Aseprite                         🕘 2 hrs 54 mins
-🎮 Microsoft Flight Simulator       🕘 0 hrs 8 mins
+🎮 Microsoft Flight Simulator       🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

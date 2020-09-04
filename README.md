@@ -7,7 +7,7 @@
 🎮 Dead Cells                       🕘 1 hrs 30 mins
 🎮 Aseprite                         🕘 2 hrs 42 mins
 🎮 Microsoft Flight Simulator       🕘 8 hrs 17 mins
-🎮 Gunfire Reborn                   🕘 4 hrs 7 mins
+🎮 Gunfire Reborn                   🕘 5 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

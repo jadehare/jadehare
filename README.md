@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 4 hrs 32 mins
-🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 28 mins
 🎮 Dead Cells                       🕘 1 hrs 30 mins
-🎮 Aseprite                         🕘 2 hrs 53 mins
+🎮 Aseprite                         🕘 2 hrs 42 mins
 🎮 Microsoft Flight Simulator       🕘 8 hrs 17 mins
+🎮 Gunfire Reborn                   🕘 0 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -6,8 +6,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 4 hrs 32 mins
 🎮 Dead Cells                       🕘 1 hrs 30 mins
 🎮 Aseprite                         🕘 2 hrs 42 mins
+🎮 Gunfire Reborn                   🕘 9 hrs 35 mins
 🎮 Microsoft Flight Simulator       🕘 8 hrs 17 mins
-🎮 Gunfire Reborn                   🕘 6 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

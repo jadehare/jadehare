@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 4 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 3 hrs 40 mins
 🎮 Dead Cells                       🕘 1 hrs 30 mins
-🎮 Gunfire Reborn                   🕘 18 hrs 31 mins
+🎮 Gunfire Reborn                   🕘 19 hrs 22 mins
 🎮 Aseprite                         🕘 2 hrs 42 mins
 🎮 Microsoft Flight Simulator       🕘 8 hrs 17 mins
 ```

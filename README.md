@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 40 mins
-🔫 Counter-Strike: Global Offensive 🕘 3 hrs 10 mins
+🔫 Counter-Strike: Global Offensive 🕘 2 hrs 49 mins
 🎮 Dead Cells                       🕘 0 hrs 57 mins
 🎮 Gunfire Reborn                   🕘 30 hrs 35 mins
 🎮 Microsoft Flight Simulator       🕘 8 hrs 17 mins

@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 49 mins
-🎮 Dead Cells                       🕘 0 hrs 55 mins
+🎮 Dead Cells                       🕘 0 hrs 51 mins
 🎮 Gunfire Reborn                   🕘 30 hrs 35 mins
 🎮 Microsoft Flight Simulator       🕘 1 hrs 37 mins
 ```

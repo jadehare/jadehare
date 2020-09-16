@@ -5,9 +5,9 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 35 mins
-🎮 Dead Cells                       🕘 0 hrs 29 mins
+🎮 Dead Cells                       🕘 0 hrs 21 mins
 🎮 Gunfire Reborn                   🕘 30 hrs 35 mins
-🎮 Microsoft Flight Simulator       🕘 0 hrs 44 mins
+🎮 Microsoft Flight Simulator       🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

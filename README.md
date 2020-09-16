@@ -7,7 +7,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 35 mins
 🎮 Dead Cells                       🕘 0 hrs 29 mins
 🎮 Gunfire Reborn                   🕘 30 hrs 35 mins
-🎮 Microsoft Flight Simulator       🕘 0 hrs 57 mins
+🎮 Microsoft Flight Simulator       🕘 0 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 9 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 40 mins
-🎮 Dead Cells                       🕘 0 hrs 8 mins
 🎮 Gunfire Reborn                   🕘 30 hrs 35 mins
 🎮 Microsoft Flight Simulator       🕘 0 hrs 17 mins
 ```

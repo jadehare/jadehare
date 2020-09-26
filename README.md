@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 47 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 40 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 51 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 40 mins
 🎮 Sea of Thieves                   🕘 1 hrs 14 mins
 ```

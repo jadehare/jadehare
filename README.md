@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 47 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 51 mins
-🎮 Gunfire Reborn                   🕘 7 hrs 23 mins
+🎮 Gunfire Reborn                   🕘 6 hrs 26 mins
 🎮 Sea of Thieves                   🕘 1 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 47 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 5 hrs 34 mins
-🎮 Gunfire Reborn                   🕘 5 hrs 56 mins
+🎮 Gunfire Reborn                   🕘 5 hrs 33 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Sea of Thieves                   🕘 1 hrs 14 mins
 ```

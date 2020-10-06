@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 47 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 6 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Sea of Thieves                   🕘 1 hrs 14 mins
+🎮 Sea of Thieves                   🕘 1 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

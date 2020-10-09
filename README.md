@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 6 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 36 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Sea of Thieves                   🕘 3 hrs 17 mins
 ```

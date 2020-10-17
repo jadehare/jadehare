@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 17 mins
 🎮 Don't Starve Together            🕘 0 hrs 51 mins
-🎮 Raft                             🕘 1 hrs 0 mins
+🎮 Raft                             🕘 2 hrs 0 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Sea of Thieves                   🕘 2 hrs 3 mins
 ```

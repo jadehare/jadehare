@@ -7,7 +7,7 @@
 🎮 Don't Starve Together            🕘 1 hrs 15 mins
 🎮 Raft                             🕘 2 hrs 24 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Sea of Thieves                   🕘 2 hrs 3 mins
+🎮 Sea of Thieves                   🕘 1 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

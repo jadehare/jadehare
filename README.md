@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 17 mins
 🎮 Don't Starve Together            🕘 1 hrs 15 mins
-🎮 Gunfire Reborn                   🕘 2 hrs 39 mins
+🎮 Gunfire Reborn                   🕘 3 hrs 21 mins
 🎮 Raft                             🕘 2 hrs 24 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 ```

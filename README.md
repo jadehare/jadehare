@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 30 mins
+🎮 Dota 2                           🕘 0 hrs 15 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 14 mins
 🎮 Don't Starve Together            🕘 1 hrs 15 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 21 mins
 🎮 Raft                             🕘 2 hrs 24 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

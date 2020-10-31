@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 14 mins
-🎮 Don't Starve Together            🕘 0 hrs 23 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 54 mins
 🎮 HELLDIVERS™                      🕘 0 hrs 16 mins
+🎮 Night of the Dead                🕘 0 hrs 42 mins
 🎮 Deep Rock Galactic               🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

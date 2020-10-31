@@ -6,7 +6,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 14 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 54 mins
 🎮 HELLDIVERS™                      🕘 0 hrs 16 mins
-🎮 Night of the Dead                🕘 0 hrs 42 mins
+🎮 Night of the Dead                🕘 1 hrs 4 mins
 🎮 Deep Rock Galactic               🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

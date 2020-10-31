@@ -7,7 +7,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 14 mins
 🎮 Don't Starve Together            🕘 0 hrs 23 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 21 mins
-🎮 Raft                             🕘 2 hrs 24 mins
+🎮 Raft                             🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

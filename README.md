@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 44 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 45 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 54 mins
 🎮 HELLDIVERS™                      🕘 0 hrs 16 mins
 🎮 Night of the Dead                🕘 1 hrs 4 mins

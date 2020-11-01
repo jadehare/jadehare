@@ -5,8 +5,8 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 34 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 54 mins
+🎮 Phasmophobia                     🕘 1 hrs 32 mins
 🎮 Night of the Dead                🕘 1 hrs 4 mins
-🎮 Phasmophobia                     🕘 0 hrs 30 mins
 🎮 Deep Rock Galactic               🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

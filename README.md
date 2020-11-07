@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 5 hrs 44 mins
-🎮 Gunfire Reborn                   🕘 3 hrs 18 mins
-🎮 Phasmophobia                     🕘 2 hrs 40 mins
+🎮 Gunfire Reborn                   🕘 2 hrs 45 mins
+🎮 Phasmophobia                     🕘 3 hrs 18 mins
 🎮 Night of the Dead                🕘 1 hrs 4 mins
 🎮 Deep Rock Galactic               🕘 0 hrs 28 mins
 ```

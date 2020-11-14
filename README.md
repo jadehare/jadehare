@@ -6,7 +6,6 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 54 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 32 mins
 🎮 Phasmophobia                     🕘 4 hrs 31 mins
-🎮 Night of the Dead                🕘 0 hrs 52 mins
 🎮 Pumpkin Jack                     🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

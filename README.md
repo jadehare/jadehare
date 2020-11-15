@@ -6,7 +6,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 5 hrs 35 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 32 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
-🎮 Phasmophobia                     🕘 2 hrs 58 mins
+🎮 Phasmophobia                     🕘 2 hrs 28 mins
 🎮 Pumpkin Jack                     🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -7,7 +7,6 @@
 🎮 Gunfire Reborn                   🕘 1 hrs 32 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
 🎮 Phasmophobia                     🕘 2 hrs 24 mins
-🎮 Pumpkin Jack                     🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 5 hrs 32 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 6 hrs 16 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 32 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
 🎮 Phasmophobia                     🕘 2 hrs 24 mins

@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 9 hrs 5 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 8 hrs 2 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
 🎮 Phasmophobia                     🕘 1 hrs 12 mins
 ```

@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 9 hrs 14 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
-🎮 Phasmophobia                     🕘 1 hrs 12 mins
+🎮 Phasmophobia                     🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

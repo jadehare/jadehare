@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 12 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 9 hrs 14 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
-🎮 Deep Rock Galactic               🕘 0 hrs 32 mins
+🎮 Deep Rock Galactic               🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

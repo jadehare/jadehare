@@ -7,7 +7,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 43 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
 🎮 Deep Rock Galactic               🕘 2 hrs 8 mins
-🎮 Risk of Rain 2                   🕘 0 hrs 9 mins
+🎮 Risk of Rain 2                   🕘 0 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

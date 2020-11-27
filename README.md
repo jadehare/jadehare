@@ -7,7 +7,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 9 hrs 14 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 DOOM Eternal                     🕘 0 hrs 33 mins
-🎮 Deep Rock Galactic               🕘 0 hrs 56 mins
+🎮 Deep Rock Galactic               🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

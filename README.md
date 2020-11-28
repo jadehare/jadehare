@@ -7,7 +7,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 10 hrs 13 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Deep Rock Galactic               🕘 3 hrs 52 mins
-🎮 Risk of Rain 2                   🕘 2 hrs 42 mins
+🎮 Risk of Rain 2                   🕘 3 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

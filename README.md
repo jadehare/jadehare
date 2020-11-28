@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 12 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 8 hrs 13 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 9 hrs 13 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Deep Rock Galactic               🕘 3 hrs 52 mins
 🎮 Risk of Rain 2                   🕘 1 hrs 41 mins

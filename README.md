@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 12 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 43 mins
-🎮 DOOM Eternal                     🕘 0 hrs 33 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Deep Rock Galactic               🕘 3 hrs 52 mins
 🎮 Risk of Rain 2                   🕘 1 hrs 41 mins
 ```

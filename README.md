@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 30 mins
+🎮 Dota 2                           🕘 1 hrs 14 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 6 hrs 21 mins
 🎮 Deep Rock Galactic               🕘 12 hrs 59 mins
 🎮 ShareX                           🕘 0 hrs 1 mins

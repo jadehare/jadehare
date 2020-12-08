@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 2 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 6 hrs 21 mins
-🎮 The Witcher 3: Wild Hunt         🕘 3 hrs 12 mins
+🎮 The Witcher 3: Wild Hunt         🕘 4 hrs 0 mins
 🎮 Deep Rock Galactic               🕘 12 hrs 59 mins
 🎮 Risk of Rain 2                   🕘 5 hrs 14 mins
 ```

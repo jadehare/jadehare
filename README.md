@@ -7,7 +7,7 @@
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
 🎮 Deep Rock Galactic               🕘 10 hrs 51 mins
 🎮 Risk of Rain 2                   🕘 5 hrs 14 mins
-🎮 Cyberpunk 2077                   🕘 3 hrs 44 mins
+🎮 Cyberpunk 2077                   🕘 4 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

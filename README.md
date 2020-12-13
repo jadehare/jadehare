@@ -5,9 +5,9 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 3 mins
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
-🎮 Deep Rock Galactic               🕘 9 hrs 7 mins
+🎮 Deep Rock Galactic               🕘 8 hrs 18 mins
 🎮 Cyberpunk 2077                   🕘 7 hrs 45 mins
-🎮 Risk of Rain 2                   🕘 3 hrs 8 mins
+🎮 Risk of Rain 2                   🕘 3 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

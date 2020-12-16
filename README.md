@@ -5,7 +5,7 @@
 ```text
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
 🎮 Cyberpunk 2077                   🕘 14 hrs 54 mins
-🎮 Deep Rock Galactic               🕘 3 hrs 34 mins
+🎮 Deep Rock Galactic               🕘 3 hrs 21 mins
 🎮 Microsoft Flight Simulator       🕘 1 hrs 34 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 45 mins
 ```

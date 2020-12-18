@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 56 mins
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
-🎮 Cyberpunk 2077                   🕘 19 hrs 17 mins
+🎮 Cyberpunk 2077                   🕘 19 hrs 54 mins
 🎮 Microsoft Flight Simulator       🕘 1 hrs 34 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 45 mins
 ```

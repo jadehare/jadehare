@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 46 mins
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
-🎮 Cyberpunk 2077                   🕘 16 hrs 30 mins
-🎮 Deep Rock Galactic               🕘 2 hrs 19 mins
-🎮 Microsoft Flight Simulator       🕘 1 hrs 34 mins
+🎮 Cyberpunk 2077                   🕘 17 hrs 16 mins
+🎮 Deep Rock Galactic               🕘 1 hrs 51 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

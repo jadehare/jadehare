@@ -7,7 +7,7 @@
 🎮 The Witcher 3: Wild Hunt         🕘 5 hrs 23 mins
 🎮 Cyberpunk 2077                   🕘 20 hrs 22 mins
 🎮 Microsoft Flight Simulator       🕘 1 hrs 34 mins
-🎮 Risk of Rain 2                   🕘 1 hrs 37 mins
+🎮 Risk of Rain 2                   🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

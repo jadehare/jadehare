@@ -6,7 +6,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 47 mins
 🎮 The Witcher 3: Wild Hunt         🕘 2 hrs 46 mins
 🎮 Cyberpunk 2077                   🕘 20 hrs 22 mins
-🎮 Microsoft Flight Simulator       🕘 1 hrs 34 mins
+🎮 Microsoft Flight Simulator       🕘 1 hrs 14 mins
 🎮 Risk of Rain 2                   🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

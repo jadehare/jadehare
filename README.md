@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 47 mins
-🎮 The Witcher 3: Wild Hunt         🕘 1 hrs 47 mins
+🎮 The Witcher 3: Wild Hunt         🕘 1 hrs 23 mins
 🎮 Cyberpunk 2077                   🕘 20 hrs 43 mins
-🎮 Microsoft Flight Simulator       🕘 1 hrs 12 mins
+🎮 Microsoft Flight Simulator       🕘 0 hrs 32 mins
 🎮 Risk of Rain 2                   🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

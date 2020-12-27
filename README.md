@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 1 hrs 38 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 41 mins
 🎮 Cyberpunk 2077                   🕘 16 hrs 15 mins
-🎮 Risk of Rain 2                   🕘 3 hrs 39 mins
+🎮 Risk of Rain 2                   🕘 3 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

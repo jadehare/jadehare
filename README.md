@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 1 hrs 38 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 41 mins
-🎮 Cyberpunk 2077                   🕘 7 hrs 53 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 14 mins
+🎮 Cyberpunk 2077                   🕘 7 hrs 29 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

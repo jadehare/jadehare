@@ -3,8 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 1 hrs 28 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 0 hrs 43 mins
+🎮 Dota 2                           🕘 1 hrs 19 mins
 🎮 Cyberpunk 2077                   🕘 4 hrs 2 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 59 mins
 ```

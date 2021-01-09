@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Cyberpunk 2077                   🕘 2 hrs 11 mins
-🎮 Risk of Rain 2                   🕘 3 hrs 49 mins
+🎮 Risk of Rain 2                   🕘 2 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

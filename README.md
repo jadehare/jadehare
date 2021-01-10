@@ -3,6 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 0 hrs 50 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 45 mins
 🎮 Risk of Rain 2                   🕘 0 hrs 44 mins
 ```

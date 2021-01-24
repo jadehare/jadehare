@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 37 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 47 mins
 🎮 Hidden Folks                     🕘 0 hrs 30 mins
 🎮 Home Behind 2                    🕘 1 hrs 46 mins
 ```

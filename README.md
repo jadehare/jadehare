@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 47 mins
 🎮 Hidden Folks                     🕘 0 hrs 30 mins
-🎮 Home Behind 2                    🕘 1 hrs 46 mins
+🎮 Home Behind 2                    🕘 2 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

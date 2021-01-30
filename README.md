@@ -6,7 +6,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 47 mins
 🎮 Hidden Folks                     🕘 0 hrs 30 mins
 🎮 Home Behind 2                    🕘 3 hrs 20 mins
-🎮 The Riftbreaker: Prologue        🕘 1 hrs 1 mins
+🎮 The Riftbreaker: Prologue        🕘 1 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

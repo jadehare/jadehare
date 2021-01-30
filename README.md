@@ -7,6 +7,7 @@
 🎮 Hidden Folks                     🕘 0 hrs 30 mins
 🎮 Home Behind 2                    🕘 3 hrs 47 mins
 🎮 The Riftbreaker: Prologue        🕘 1 hrs 19 mins
+🎮 Dyson Sphere Program             🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

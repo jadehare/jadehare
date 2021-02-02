@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 47 mins
 🎮 Hidden Folks                     🕘 0 hrs 30 mins
-🎮 Dyson Sphere Program             🕘 7 hrs 34 mins
+🎮 Dyson Sphere Program             🕘 8 hrs 31 mins
 🎮 Home Behind 2                    🕘 3 hrs 47 mins
 🎮 The Riftbreaker: Prologue        🕘 1 hrs 19 mins
 ```

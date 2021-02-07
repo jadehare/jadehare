@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dyson Sphere Program             🕘 8 hrs 31 mins
-🎮 Home Behind 2                    🕘 1 hrs 17 mins
+🎮 Home Behind 2                    🕘 1 hrs 11 mins
 🎮 The Riftbreaker: Prologue        🕘 1 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

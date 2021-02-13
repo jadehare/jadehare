@@ -5,7 +5,7 @@
 ```text
 🎮 Dyson Sphere Program             🕘 8 hrs 31 mins
 🎮 Home Behind 2                    🕘 0 hrs 26 mins
-🎮 The Riftbreaker: Prologue        🕘 1 hrs 19 mins
+🎮 The Riftbreaker: Prologue        🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,6 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🎮 Gunfire Reborn                   🕘 0 hrs 34 mins
 🎮 Dyson Sphere Program             🕘 8 hrs 31 mins
 🎮 Home Behind 2                    🕘 0 hrs 26 mins
 ```

@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Gunfire Reborn                   🕘 8 hrs 27 mins
+🎮 Dead Cells                       🕘 0 hrs 7 mins
 🎮 Dyson Sphere Program             🕘 1 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

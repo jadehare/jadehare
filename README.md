@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 38 mins
 🎮 Gunfire Reborn                   🕘 6 hrs 29 mins
-🎮 Dead Cells                       🕘 0 hrs 7 mins
+🎮 Dead Cells                       🕘 0 hrs 21 mins
 🎮 Dyson Sphere Program             🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

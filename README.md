@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 58 mins
-🎮 Gunfire Reborn                   🕘 3 hrs 13 mins
+🎮 Gunfire Reborn                   🕘 2 hrs 17 mins
 🎮 Dead Cells                       🕘 0 hrs 21 mins
 🎮 Dyson Sphere Program             🕘 0 hrs 4 mins
 ```

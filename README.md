@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 58 mins
-🎮 Dead Cells                       🕘 0 hrs 21 mins
+🎮 Dead Cells                       🕘 0 hrs 13 mins
 🎮 Dyson Sphere Program             🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -3,9 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 38 mins
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 58 mins
-🎮 Dead Cells                       🕘 0 hrs 13 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 52 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 18 mins
+🎮 Loop Hero                        🕘 3 hrs 29 mins
+🎮 It Takes Two                     🕘 2 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

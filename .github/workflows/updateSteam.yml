@@ -33,6 +33,8 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
+          go env -w GOPROXY=https://goproxy.io,direct
+          go env -w GO111MODULE=on
           git clone https://github.com/jadehare/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/

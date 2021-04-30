@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 52 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 18 mins
-🎮 Loop Hero                        🕘 3 hrs 29 mins
+🎮 Loop Hero                        🕘 2 hrs 54 mins
 🎮 It Takes Two                     🕘 2 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

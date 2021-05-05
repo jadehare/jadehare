@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 4 hrs 4 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 3 hrs 23 mins
 🎮 Loop Hero                        🕘 0 hrs 39 mins
-🎮 It Takes Two                     🕘 3 hrs 25 mins
+🎮 It Takes Two                     🕘 4 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

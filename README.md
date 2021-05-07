@@ -4,9 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 5 hrs 45 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 33 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 31 mins
 🎮 Loop Hero                        🕘 0 hrs 9 mins
 🎮 It Takes Two                     🕘 4 hrs 29 mins
+🎮 SteamVR                          🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

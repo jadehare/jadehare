@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 5 hrs 45 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 31 mins
 🎮 It Takes Two                     🕘 2 hrs 5 mins
-🎮 SteamVR                          🕘 3 hrs 0 mins
+🎮 SteamVR                          🕘 3 hrs 30 mins
 🎮 No Man's Sky                     🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

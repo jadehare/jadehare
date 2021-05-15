@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 5 hrs 45 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 17 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 0 hrs 19 mins
 🎮 SteamVR                          🕘 7 hrs 10 mins
 🎮 It Takes Two                     🕘 4 hrs 19 mins
 🎮 No Man's Sky                     🕘 0 hrs 18 mins

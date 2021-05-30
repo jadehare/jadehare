@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 7 mins
 🎮 It Takes Two                     🕘 3 hrs 37 mins
-🎮 SteamVR                          🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

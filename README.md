@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 1 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 15 mins
-🎮 It Takes Two                     🕘 3 hrs 57 mins
+🎮 It Takes Two                     🕘 3 hrs 50 mins
 🎮 SteamVR                          🕘 2 hrs 40 mins
 🎮 Half-Life: Alyx                  🕘 1 hrs 12 mins
 ```

@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 0 hrs 1 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 15 mins
 🎮 It Takes Two                     🕘 3 hrs 18 mins
-🎮 SteamVR                          🕘 2 hrs 40 mins
-🎮 Half-Life: Alyx                  🕘 1 hrs 39 mins
+🎮 SteamVR                          🕘 2 hrs 12 mins
+🎮 Half-Life: Alyx                  🕘 1 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

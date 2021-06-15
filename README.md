@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 15 mins
 🎮 It Takes Two                     🕘 3 hrs 18 mins
-🎮 SteamVR                          🕘 0 hrs 59 mins
+🎮 SteamVR                          🕘 1 hrs 42 mins
 🎮 PowerWash Simulator              🕘 2 hrs 31 mins
 🎮 Half-Life: Alyx                  🕘 0 hrs 57 mins
 ```

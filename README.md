@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 2 hrs 15 mins
+🎮 SteamVR                          🕘 3 hrs 56 mins
 🎮 It Takes Two                     🕘 1 hrs 9 mins
-🎮 SteamVR                          🕘 2 hrs 55 mins
 🎮 Half-Life: Alyx                  🕘 1 hrs 46 mins
 🎮 PowerWash Simulator              🕘 2 hrs 54 mins
 ```

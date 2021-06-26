@@ -6,8 +6,8 @@
 🎮 Gunfire Reborn                   🕘 0 hrs 43 mins
 🎮 SteamVR                          🕘 10 hrs 36 mins
 🎮 It Takes Two                     🕘 1 hrs 9 mins
+🎮 Half-Life: Alyx                  🕘 2 hrs 13 mins
 🎮 PowerWash Simulator              🕘 3 hrs 1 mins
-🎮 Half-Life: Alyx                  🕘 1 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

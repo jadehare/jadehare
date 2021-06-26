@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 1 hrs 10 mins
-🎮 SteamVR                          🕘 12 hrs 38 mins
+🎮 Gunfire Reborn                   🕘 2 hrs 11 mins
+🎮 SteamVR                          🕘 13 hrs 8 mins
 🎮 It Takes Two                     🕘 1 hrs 9 mins
 🎮 Half-Life: Alyx                  🕘 2 hrs 13 mins
 🎮 PowerWash Simulator              🕘 3 hrs 1 mins

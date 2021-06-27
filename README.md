@@ -5,8 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 27 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
-🎮 SteamVR                          🕘 19 hrs 9 mins
-🎮 Half-Life: Alyx                  🕘 2 hrs 56 mins
+🎮 SteamVR                          🕘 19 hrs 8 mins
+🎮 Half-Life: Alyx                  🕘 2 hrs 39 mins
 🎮 PowerWash Simulator              🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

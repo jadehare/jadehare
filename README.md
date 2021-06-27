@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 27 mins
+🎮 Dota 2                           🕘 0 hrs 18 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
 🎮 SteamVR                          🕘 19 hrs 8 mins
 🎮 Half-Life: Alyx                  🕘 2 hrs 29 mins

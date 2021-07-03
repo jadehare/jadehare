@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 14 mins
+🎮 Dota 2                           🕘 0 hrs 7 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
-🎮 SteamVR                          🕘 10 hrs 48 mins
+🎮 SteamVR                          🕘 9 hrs 42 mins
 🎮 Half-Life: Alyx                  🕘 1 hrs 9 mins
 🎮 PowerWash Simulator              🕘 0 hrs 6 mins
 ```

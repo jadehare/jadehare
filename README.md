@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 33 mins
 🎮 Gunfire Reborn                   🕘 6 hrs 52 mins
-🎮 Half-Life: Alyx                  🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

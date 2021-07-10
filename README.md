@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 33 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 0 hrs 30 mins
 🎮 Gunfire Reborn                   🕘 6 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

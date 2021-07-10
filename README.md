@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 26 mins
-🎮 Gunfire Reborn                   🕘 8 hrs 39 mins
-🎮 SteamVR                          🕘 6 hrs 22 mins
+🎮 Gunfire Reborn                   🕘 8 hrs 47 mins
+🎮 SteamVR                          🕘 5 hrs 30 mins
 🎮 Half-Life: Alyx                  🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

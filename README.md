@@ -6,6 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 33 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 5 hrs 23 mins
 🎮 Gunfire Reborn                   🕘 4 hrs 18 mins
+🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

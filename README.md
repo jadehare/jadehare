@@ -7,6 +7,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 1 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 46 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
+🎮 3DMark                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 7 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 1 mins
-🎮 Gunfire Reborn                   🕘 1 hrs 46 mins
+🎮 Gunfire Reborn                   🕘 1 hrs 20 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
 🎮 3DMark                           🕘 0 hrs 15 mins
 ```

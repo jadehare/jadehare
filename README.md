@@ -3,8 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 7 hrs 1 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 6 hrs 35 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
+🎮 Kingdom Rush Vengeance           🕘 0 hrs 19 mins
 🎮 3DMark                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

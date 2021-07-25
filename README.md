@@ -6,7 +6,7 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 4 hrs 44 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
 🎮 变量 - Variables                 🕘 0 hrs 2 mins
-🎮 Kingdom Rush Vengeance           🕘 0 hrs 19 mins
+🎮 Kingdom Rush Vengeance           🕘 0 hrs 59 mins
 🎮 3DMark                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

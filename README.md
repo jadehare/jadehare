@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 37 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 29 mins
-🎮 Cyberpunk 2077                   🕘 0 hrs 11 mins
+🎮 变量 - Variables                 🕘 0 hrs 2 mins
 🎮 Kingdom Rush Vengeance           🕘 1 hrs 4 mins
 🎮 3DMark                           🕘 0 hrs 15 mins
 ```

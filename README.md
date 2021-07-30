@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 37 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 29 mins
 🎮 变量 - Variables                 🕘 0 hrs 2 mins
 🎮 Kingdom Rush Vengeance           🕘 1 hrs 4 mins

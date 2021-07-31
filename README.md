@@ -6,6 +6,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 29 mins
 🎮 变量 - Variables                 🕘 0 hrs 2 mins
 🎮 Kingdom Rush Vengeance           🕘 1 hrs 4 mins
+🎮 Grounded                         🕘 0 hrs 27 mins
 🎮 3DMark                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

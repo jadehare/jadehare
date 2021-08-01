@@ -7,7 +7,6 @@
 🎮 变量 - Variables                 🕘 0 hrs 2 mins
 🎮 Grounded                         🕘 1 hrs 23 mins
 🎮 Kingdom Rush Vengeance           🕘 1 hrs 4 mins
-🎮 3DMark                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

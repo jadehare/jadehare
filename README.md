@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 43 mins
+🎮 Two Point Hospital               🕘 0 hrs 7 mins
 🎮 变量 - Variables                 🕘 0 hrs 2 mins
 🎮 Grounded                         🕘 1 hrs 23 mins
 🎮 Kingdom Rush Vengeance           🕘 1 hrs 4 mins

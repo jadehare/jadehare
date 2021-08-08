@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 43 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 13 mins
 🎮 Two Point Hospital               🕘 0 hrs 7 mins
 🎮 Tribes of Midgard                🕘 1 hrs 42 mins
 🎮 Grounded                         🕘 1 hrs 23 mins

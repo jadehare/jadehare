@@ -7,7 +7,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 13 mins
 🎮 Tribes of Midgard                🕘 1 hrs 42 mins
 🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins
-🎮 Grounded                         🕘 1 hrs 23 mins
+🎮 Grounded                         🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

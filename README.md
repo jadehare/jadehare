@@ -6,8 +6,8 @@
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 13 mins
 🎮 Tribes of Midgard                🕘 1 hrs 42 mins
 🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins
+🎮                                  🕘 1 hrs 16 mins
 🎮 PICO PARK                        🕘 1 hrs 14 mins
-🎮                                  🕘 1 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

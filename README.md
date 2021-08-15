@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 13 mins
-🎮 Two Point Hospital               🕘 0 hrs 7 mins
 🎮 Tribes of Midgard                🕘 1 hrs 42 mins
 🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins
 🎮 PICO PARK                        🕘 1 hrs 14 mins
+🎮 Barotrauma                       🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

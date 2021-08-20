@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 13 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 9 mins
 🎮                                  🕘 2 hrs 12 mins
 🎮 Tribes of Midgard                🕘 1 hrs 42 mins
 🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins

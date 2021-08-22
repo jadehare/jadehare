@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 28 mins
 🎮                                  🕘 2 hrs 12 mins
-🎮 Tribes of Midgard                🕘 1 hrs 9 mins
 🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins
 🎮 PICO PARK                        🕘 1 hrs 14 mins
 🎮 Barotrauma                       🕘 0 hrs 19 mins

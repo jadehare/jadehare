@@ -5,7 +5,7 @@
 ```text
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 1 hrs 28 mins
 🎮                                  🕘 2 hrs 12 mins
-🎮 Kingdom Rush Vengeance           🕘 0 hrs 33 mins
+🎮 Kingdom Rush Vengeance           🕘 0 hrs 16 mins
 🎮 PICO PARK                        🕘 1 hrs 14 mins
 🎮 Barotrauma                       🕘 0 hrs 19 mins
 ```

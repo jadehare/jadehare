@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 31 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 28 mins
 🎮                                  🕘 2 hrs 12 mins
-🎮 PICO PARK                        🕘 1 hrs 14 mins
+🎮 PICO PARK                        🕘 0 hrs 45 mins
 🎮 Barotrauma                       🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -5,9 +5,9 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 44 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 28 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 3 mins
 🎮 DOOM Eternal                     🕘 0 hrs 3 mins
-🎮                                  🕘 2 hrs 12 mins
-🎮 Barotrauma                       🕘 0 hrs 12 mins
+🎮                                  🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

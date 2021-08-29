@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 48 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 28 mins
-🎮 Lost Castle                      🕘 1 hrs 3 mins
+🎮 Lost Castle                      🕘 1 hrs 29 mins
 🎮 DOOM Eternal                     🕘 0 hrs 3 mins
 🎮                                  🕘 0 hrs 56 mins
 ```

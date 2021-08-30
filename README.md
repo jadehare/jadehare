@@ -7,7 +7,7 @@
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 28 mins
 🎮 Lost Castle                      🕘 1 hrs 29 mins
 🎮 DOOM Eternal                     🕘 0 hrs 3 mins
-🎮                                  🕘 0 hrs 56 mins
+🎮                                  🕘 0 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 45 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 7 mins
 🎮 Lost Castle                      🕘 1 hrs 29 mins
 🎮 Hot Lava                         🕘 0 hrs 1 mins

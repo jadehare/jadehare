@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 17 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 7 mins
-🎮 Gunfire Reborn                   🕘 0 hrs 31 mins
+🎮 Gunfire Reborn                   🕘 1 hrs 32 mins
 🎮 Lost Castle                      🕘 1 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

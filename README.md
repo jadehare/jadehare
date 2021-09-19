@@ -7,7 +7,6 @@
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 22 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 31 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Hot Lava                         🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

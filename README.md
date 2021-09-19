@@ -6,7 +6,7 @@
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 3 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 17 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 31 mins
-🎮 SteamVR                          🕘 6 hrs 16 mins
+🎮 SteamVR                          🕘 6 hrs 56 mins
 🎮 Half-Life: Alyx                  🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

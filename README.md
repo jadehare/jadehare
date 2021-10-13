@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 19 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 40 mins
-🎮 Left 4 Dead 2                    🕘 4 hrs 10 mins
+🎮 Left 4 Dead 2                    🕘 4 hrs 40 mins
 🎮 SteamVR                          🕘 3 hrs 6 mins
 🎮 F.I.S.T.: Forged In Shadow Torch 🕘 0 hrs 50 mins
 ```

@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 1 hrs 17 mins
-🎮 Gunfire Reborn                   🕘 5 hrs 31 mins
-🎮 SteamVR                          🕘 7 hrs 37 mins
-🎮 Half-Life: Alyx                  🕘 0 hrs 37 mins
+🎮 Dota 2                           🕘 0 hrs 19 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 40 mins
+🎮 Left 4 Dead 2                    🕘 4 hrs 10 mins
+🎮 SteamVR                          🕘 3 hrs 6 mins
+🎮 F.I.S.T.: Forged In Shadow Torch 🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

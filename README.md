@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 46 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 3 hrs 33 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 3 hrs 13 mins
 🎮 Left 4 Dead 2                    🕘 6 hrs 46 mins
-🎮 SteamVR                          🕘 1 hrs 37 mins
+🎮 SteamVR                          🕘 1 hrs 35 mins
 🎮 F.I.S.T.: Forged In Shadow Torch 🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

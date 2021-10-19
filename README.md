@@ -6,7 +6,6 @@
 🎮 Dota 2                           🕘 0 hrs 46 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 4 mins
 🎮 Left 4 Dead 2                    🕘 6 hrs 46 mins
-🎮 SteamVR                          🕘 0 hrs 39 mins
 🎮 F.I.S.T.: Forged In Shadow Torch 🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

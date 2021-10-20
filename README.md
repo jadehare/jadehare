@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 46 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 45 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 0 hrs 53 mins
 🎮 Left 4 Dead 2                    🕘 6 hrs 46 mins
 🎮 F.I.S.T.: Forged In Shadow Torch 🕘 0 hrs 14 mins
 ```

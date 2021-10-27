@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 31 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 0 hrs 53 mins
-🎮 Left 4 Dead 2                    🕘 2 hrs 36 mins
+🎮 Left 4 Dead 2                    🕘 1 hrs 43 mins
 🎮 Back 4 Blood                     🕘 3 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

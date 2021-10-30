@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 0 hrs 28 mins
 🎮 Left 4 Dead 2                    🕘 1 hrs 16 mins
 🎮 Back 4 Blood                     🕘 5 hrs 38 mins
-🎮 The Riftbreaker                  🕘 0 hrs 17 mins
+🎮 The Riftbreaker                  🕘 0 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,8 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 28 mins
-🎮 Left 4 Dead 2                    🕘 1 hrs 16 mins
+🎮 Left 4 Dead 2                    🕘 0 hrs 52 mins
 🎮 Back 4 Blood                     🕘 5 hrs 38 mins
 🎮 The Riftbreaker                  🕘 0 hrs 31 mins
 ```

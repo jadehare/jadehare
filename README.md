@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 8 mins
-🎮 Back 4 Blood                     🕘 5 hrs 30 mins
+🎮 Back 4 Blood                     🕘 5 hrs 20 mins
 🎮 The Riftbreaker                  🕘 0 hrs 14 mins
 🎮 变量2                            🕘 0 hrs 4 mins
 ```

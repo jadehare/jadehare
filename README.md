@@ -5,7 +5,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 8 mins
 🎮 Back 4 Blood                     🕘 3 hrs 34 mins
-🎮 The Riftbreaker                  🕘 0 hrs 14 mins
 🎮 变量2                            🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

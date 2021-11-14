@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1 hrs 45 mins
-🎮 SteamVR                          🕘 1 hrs 48 mins
+🔫 Counter-Strike: Global Offensive 🕘 1 hrs 29 mins
+🎮 SteamVR                          🕘 2 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

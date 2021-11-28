@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 14 hrs 30 mins
-🎮 SteamVR                          🕘 8 hrs 44 mins
+🎮 Gunfire Reborn                   🕘 16 hrs 0 mins
+🎮 SteamVR                          🕘 8 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

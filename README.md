@@ -3,7 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 15 hrs 58 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 24 mins
+🎮 Gunfire Reborn                   🕘 14 hrs 54 mins
 🎮 Deep Rock Galactic               🕘 0 hrs 13 mins
 🎮 Back 4 Blood                     🕘 1 hrs 12 mins
 ```

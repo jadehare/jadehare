@@ -6,8 +6,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 6 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 6 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 5 mins
-🎮 Deep Rock Galactic               🕘 0 hrs 13 mins
-🎮 Back 4 Blood                     🕘 1 hrs 12 mins
+🎮 Back 4 Blood                     🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

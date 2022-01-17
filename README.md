@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 46 mins
 🎮 Plants vs. Zombies: Game of the Year 🕘 2 hrs 11 mins
-🎮 Green Hell                       🕘 0 hrs 55 mins
+🎮 Green Hell                       🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,8 +5,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 1 mins
 🎮 Plants vs. Zombies: Game of the Year 🕘 2 hrs 11 mins
-🎮 Pumpkin Jack                     🕘 0 hrs 47 mins
-🎮 暖雪 Warm Snow                   🕘 0 hrs 40 mins
+🎮 Pumpkin Jack                     🕘 1 hrs 16 mins
+🎮 暖雪 Warm Snow                   🕘 1 hrs 5 mins
 🎮 Bayonetta                        🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

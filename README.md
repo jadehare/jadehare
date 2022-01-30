@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 8 mins
 🎮 暖雪 Warm Snow                   🕘 25 hrs 30 mins
-🎮 Plants vs. Zombies: Game of the Year 🕘 1 hrs 5 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Pumpkin Jack                     🕘 1 hrs 16 mins
 🎮 Bayonetta                        🕘 0 hrs 30 mins
 ```

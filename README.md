@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 2 hrs 8 mins
+🔫 Counter-Strike: Global Offensive 🕘 2 hrs 31 mins
 🎮 暖雪 Warm Snow                   🕘 38 hrs 31 mins
 🎮 Pumpkin Jack                     🕘 1 hrs 16 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins

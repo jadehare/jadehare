@@ -5,9 +5,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 31 mins
 🎮 暖雪 Warm Snow                   🕘 39 hrs 50 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Pumpkin Jack                     🕘 1 hrs 16 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins
-🎮 Bayonetta                        🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

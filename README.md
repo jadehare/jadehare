@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🍳 PUBG: BATTLEGROUNDS              🕘 0 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 31 mins
 🎮 暖雪 Warm Snow                   🕘 39 hrs 50 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Pumpkin Jack                     🕘 0 hrs 53 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins
 ```

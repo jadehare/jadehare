@@ -5,8 +5,8 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 18 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 36 mins
-🎮 暖雪 Warm Snow                   🕘 37 hrs 53 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 Gunfire Reborn                   🕘 0 hrs 57 mins
+🎮 暖雪 Warm Snow                   🕘 36 hrs 57 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

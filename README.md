@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 18 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 36 mins
-🎮 暖雪 Warm Snow                   🕘 38 hrs 45 mins
+🎮 暖雪 Warm Snow                   🕘 37 hrs 53 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins
 ```

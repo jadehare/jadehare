@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 18 mins
-🎮 暖雪 Warm Snow                   🕘 29 hrs 8 mins
+🎮 暖雪 Warm Snow                   🕘 28 hrs 58 mins
 🎮 Raft                             🕘 1 hrs 30 mins
 🎮 Mirror 2: Project X              🕘 1 hrs 48 mins
 🎮 BattleBlock Theater              🕘 1 hrs 20 mins

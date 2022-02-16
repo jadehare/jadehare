@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 18 mins
 🎮 Gunfire Reborn                   🕘 0 hrs 57 mins
-🎮 暖雪 Warm Snow                   🕘 21 hrs 37 mins
+🎮 暖雪 Warm Snow                   🕘 21 hrs 9 mins
 🎮 Raft                             🕘 1 hrs 30 mins
 🎮 Mirror 2: Project X              🕘 1 hrs 48 mins
 ```

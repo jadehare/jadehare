@@ -5,7 +5,7 @@
 ```text
 🎮 暖雪 Warm Snow                   🕘 23 hrs 48 mins
 🎮 Raft                             🕘 1 hrs 30 mins
-🎮 Mirror 2: Project X              🕘 1 hrs 1 mins
+🎮 Mirror 2: Project X              🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

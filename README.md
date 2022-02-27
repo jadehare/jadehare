@@ -6,7 +6,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
 🎮 暖雪 Warm Snow                   🕘 17 hrs 16 mins
-🎮 Raft                             🕘 1 hrs 32 mins
+🎮 Raft                             🕘 0 hrs 52 mins
 🎮 TOGETHER BnB                     🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

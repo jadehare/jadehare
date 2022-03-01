@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
-🎮 暖雪 Warm Snow                   🕘 5 hrs 2 mins
+🎮 暖雪 Warm Snow                   🕘 4 hrs 9 mins
 🎮 Raft                             🕘 0 hrs 52 mins
 🎮 TOGETHER BnB                     🕘 0 hrs 33 mins
 ```

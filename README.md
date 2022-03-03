@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 3 mins
-🎮 暖雪 Warm Snow                   🕘 0 hrs 49 mins
 🎮 Raft                             🕘 0 hrs 52 mins
 🎮 Microsoft Flight Simulator       🕘 0 hrs 10 mins
 🎮 TOGETHER BnB                     🕘 0 hrs 33 mins

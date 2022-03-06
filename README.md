@@ -6,8 +6,8 @@
 🎮 Gunfire Reborn                   🕘 8 hrs 21 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
 🎮 Back 4 Blood                     🕘 0 hrs 14 mins
-🎮 Microsoft Flight Simulator       🕘 0 hrs 10 mins
 🎮 TOGETHER BnB                     🕘 0 hrs 33 mins
+🎮 ELDEN RING                       🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

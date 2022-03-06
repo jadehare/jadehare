@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 8 hrs 19 mins
+🎮 Gunfire Reborn                   🕘 8 hrs 21 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
 🎮 Back 4 Blood                     🕘 0 hrs 14 mins
 🎮 Microsoft Flight Simulator       🕘 0 hrs 10 mins

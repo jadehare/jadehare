@@ -7,7 +7,7 @@
 🎮 暖雪 Warm Snow                   🕘 2 hrs 6 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
 🎮 ELDEN RING                       🕘 2 hrs 58 mins
-🎮 TOGETHER BnB                     🕘 0 hrs 26 mins
+🎮 TOGETHER BnB                     🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

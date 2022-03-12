@@ -6,8 +6,8 @@
 🎮 Gunfire Reborn                   🕘 7 hrs 28 mins
 🎮 暖雪 Warm Snow                   🕘 2 hrs 6 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
+🎮 Back 4 Blood                     🕘 0 hrs 14 mins
 🎮 ELDEN RING                       🕘 2 hrs 58 mins
-🎮 TOGETHER BnB                     🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

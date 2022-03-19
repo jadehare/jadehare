@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Gunfire Reborn                   🕘 2 hrs 27 mins
-🎮 暖雪 Warm Snow                   🕘 2 hrs 6 mins
+🎮 暖雪 Warm Snow                   🕘 2 hrs 23 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
 🎮 Risk of Rain 2                   🕘 2 hrs 24 mins
 🎮 ELDEN RING                       🕘 2 hrs 58 mins

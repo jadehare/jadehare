@@ -5,7 +5,7 @@
 ```text
 🎮 Gunfire Reborn                   🕘 2 hrs 27 mins
 🎮 暖雪 Warm Snow                   🕘 2 hrs 25 mins
-🎮 Sekiro™: Shadows Die Twice       🕘 2 hrs 6 mins
+🎮 Sekiro™: Shadows Die Twice       🕘 1 hrs 15 mins
 🎮 Risk of Rain 2                   🕘 2 hrs 24 mins
 🎮 ELDEN RING                       🕘 2 hrs 58 mins
 ```

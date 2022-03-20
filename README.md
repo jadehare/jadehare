@@ -3,11 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 2 hrs 27 mins
-🎮 暖雪 Warm Snow                   🕘 2 hrs 25 mins
-🎮 Sekiro™: Shadows Die Twice       🕘 1 hrs 15 mins
-🎮 Risk of Rain 2                   🕘 2 hrs 24 mins
-🎮 ELDEN RING                       🕘 2 hrs 58 mins
+🎮 暖雪 Warm Snow                   🕘 2 hrs 34 mins
+🎮 Risk of Rain 2                   🕘 5 hrs 57 mins
+🎮 ELDEN RING                       🕘 1 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

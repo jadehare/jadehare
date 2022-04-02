@@ -5,7 +5,7 @@
 ```text
 🎮 暖雪 Warm Snow                   🕘 0 hrs 9 mins
 🎮 Risk of Rain 2                   🕘 3 hrs 43 mins
-🎮 ELDEN RING                       🕘 12 hrs 17 mins
+🎮 ELDEN RING                       🕘 13 hrs 15 mins
 🎮 Deep Rock Galactic               🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

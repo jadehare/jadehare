@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 暖雪 Warm Snow                   🕘 0 hrs 9 mins
-🎮 Risk of Rain 2                   🕘 0 hrs 39 mins
+🎮 Risk of Rain 2                   🕘 0 hrs 1 mins
 🎮 ELDEN RING                       🕘 14 hrs 14 mins
 🎮 Deep Rock Galactic               🕘 1 hrs 5 mins
-🎮 Serious Sam 4                    🕘 1 hrs 21 mins
+🎮 Serious Sam 4                    🕘 1 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

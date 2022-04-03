@@ -3,8 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 暖雪 Warm Snow                   🕘 0 hrs 6 mins
-🎮 ELDEN RING                       🕘 14 hrs 44 mins
+🎮 ELDEN RING                       🕘 15 hrs 21 mins
 🎮 Deep Rock Galactic               🕘 1 hrs 5 mins
 🎮 Serious Sam 4                    🕘 1 hrs 44 mins
 ```

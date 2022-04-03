@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 暖雪 Warm Snow                   🕘 0 hrs 9 mins
-🎮 Risk of Rain 2                   🕘 3 hrs 43 mins
-🎮 ELDEN RING                       🕘 13 hrs 15 mins
+🎮 Risk of Rain 2                   🕘 3 hrs 33 mins
+🎮 ELDEN RING                       🕘 14 hrs 6 mins
 🎮 Deep Rock Galactic               🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

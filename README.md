@@ -5,7 +5,7 @@
 ```text
 🎮 ELDEN RING                       🕘 18 hrs 13 mins
 🎮 Deep Rock Galactic               🕘 1 hrs 5 mins
-🎮 Serious Sam 4                    🕘 3 hrs 32 mins
+🎮 Serious Sam 4                    🕘 4 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

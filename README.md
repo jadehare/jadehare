@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 ELDEN RING                       🕘 23 hrs 33 mins
+🎮 ELDEN RING                       🕘 22 hrs 48 mins
 🎮 Serious Sam 4                    🕘 5 hrs 44 mins
 🎮 Halo: The Master Chief Collection 🕘 0 hrs 53 mins
 ```

@@ -5,6 +5,7 @@
 ```text
 🎮 ELDEN RING                       🕘 6 hrs 53 mins
 🎮 Plants vs. Zombies: Game of the Year 🕘 1 hrs 15 mins
+🎮 Alien Swarm                      🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

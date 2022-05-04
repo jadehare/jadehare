@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 ELDEN RING                       🕘 7 hrs 21 mins
+🎮 ELDEN RING                       🕘 7 hrs 27 mins
 🎮 Serious Sam 4                    🕘 1 hrs 52 mins
 🎮 Plants vs. Zombies: Game of the Year 🕘 1 hrs 15 mins
 🎮 Alien Swarm: Reactive Drop       🕘 0 hrs 35 mins

@@ -5,7 +5,7 @@
 ```text
 🎮 ELDEN RING                       🕘 4 hrs 6 mins
 🎮 Serious Sam 4                    🕘 1 hrs 52 mins
-🎮 Plants vs. Zombies: Game of the Year 🕘 0 hrs 30 mins
+🎮 Plants vs. Zombies: Game of the Year 🕘 0 hrs 28 mins
 🎮 Alien Swarm: Reactive Drop       🕘 0 hrs 35 mins
 🎮 Alien Swarm                      🕘 0 hrs 2 mins
 ```

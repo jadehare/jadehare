@@ -6,7 +6,6 @@
 🎮 ELDEN RING                       🕘 2 hrs 40 mins
 🎮 Serious Sam 4                    🕘 1 hrs 52 mins
 🎮 Alien Swarm: Reactive Drop       🕘 0 hrs 35 mins
-🎮 Alien Swarm                      🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

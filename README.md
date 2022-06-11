@@ -5,8 +5,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 54 mins
 🎮 ELDEN RING                       🕘 0 hrs 29 mins
-🎮 V Rising                         🕘 1 hrs 53 mins
-🎮 Escape Simulator                 🕘 0 hrs 30 mins
+🎮 V Rising                         🕘 1 hrs 26 mins
+🎮 Escape Simulator                 🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

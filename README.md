@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 54 mins
+🎮 ELDEN RING                       🕘 0 hrs 19 mins
 🎮 Escape Simulator                 🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

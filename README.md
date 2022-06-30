@@ -5,6 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 5 hrs 44 mins
 🎮 ELDEN RING                       🕘 1 hrs 28 mins
+🎮 Mirror 2: Project X              🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

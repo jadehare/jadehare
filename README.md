@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3 hrs 31 mins
+🔫 Counter-Strike: Global Offensive 🕘 3 hrs 0 mins
 🎮 ELDEN RING                       🕘 1 hrs 28 mins
 🎮 Mirror 2: Project X              🕘 1 hrs 3 mins
 ```

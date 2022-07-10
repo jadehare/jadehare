@@ -5,7 +5,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 10 mins
 🎮 Gunfire Reborn                   🕘 0 hrs 1 mins
-🎮 ELDEN RING                       🕘 0 hrs 7 mins
 🎮 Mirror 2: Project X              🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

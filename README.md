@@ -6,7 +6,6 @@
 🎮 Dota 2                           🕘 0 hrs 1 mins
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 28 mins
 🎮 Gunfire Reborn                   🕘 0 hrs 1 mins
-🎮 Mirror 2: Project X              🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

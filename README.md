@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 12 mins
 🔫 Counter-Strike: Global Offensive 🕘 2 hrs 28 mins
-🎮 Gunfire Reborn                   🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

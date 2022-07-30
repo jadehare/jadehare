@@ -5,6 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 11 mins
 🎮 Slay the Spire                   🕘 0 hrs 8 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

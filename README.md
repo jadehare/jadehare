@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 1 hrs 15 mins
 🎮 Slay the Spire                   🕘 0 hrs 8 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 ```

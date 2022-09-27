@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 27 mins
-🎮 Cyberpunk 2077                   🕘 0 hrs 32 mins
+🎮 Cyberpunk 2077                   🕘 0 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

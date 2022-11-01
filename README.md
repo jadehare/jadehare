@@ -5,6 +5,7 @@
 ```text
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 ASTLIBRA ～生きた証～ Revision   🕘 0 hrs 12 mins
+🎮 Brotato                          🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

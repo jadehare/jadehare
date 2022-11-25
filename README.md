@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 SteamVR                          🕘 0 hrs 15 mins
+🎮 SteamVR                          🕘 0 hrs 36 mins
 🎮 Brotato                          🕘 7 hrs 38 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Beat Saber                       🕘 0 hrs 14 mins
+🎮 Beat Saber                       🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

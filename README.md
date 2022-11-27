@@ -5,7 +5,7 @@
 ```text
 🎮 Gunfire Reborn                   🕘 1 hrs 6 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
-🎮 Brotato                          🕘 7 hrs 6 mins
+🎮 Brotato                          🕘 7 hrs 36 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 🎮 Beat Saber                       🕘 0 hrs 34 mins
 ```

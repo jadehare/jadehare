@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Gunfire Reborn                   🕘 2 hrs 7 mins
+🎮 Gunfire Reborn                   🕘 2 hrs 16 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
 🎮 Brotato                          🕘 7 hrs 36 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins

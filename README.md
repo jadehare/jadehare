@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 33 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 54 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
 🎮 Brotato                          🕘 6 hrs 39 mins
-💻 Wallpaper Engine                 🕘 0 hrs 13 mins
 🎮 Beat Saber                       🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 2 hrs 17 mins
+🔫 Counter-Strike: Global Offensive 🕘 2 hrs 47 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 13 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
 🎮 Brotato                          🕘 4 hrs 22 mins

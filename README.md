@@ -6,7 +6,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 3 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 13 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
-🎮 Brotato                          🕘 3 hrs 49 mins
+🎮 Brotato                          🕘 3 hrs 36 mins
 🎮 Beat Saber                       🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

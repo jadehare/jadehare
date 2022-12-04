@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 3 mins
-🎮 Gunfire Reborn                   🕘 5 hrs 43 mins
+🎮 Gunfire Reborn                   🕘 6 hrs 43 mins
 🎮 SteamVR                          🕘 0 hrs 36 mins
-🎮 Brotato                          🕘 2 hrs 41 mins
+🎮 Brotato                          🕘 2 hrs 31 mins
 🎮 Beat Saber                       🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

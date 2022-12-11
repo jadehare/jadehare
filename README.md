@@ -5,7 +5,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 51 mins
 🎮 Gunfire Reborn                   🕘 7 hrs 22 mins
-🎮 Brotato                          🕘 0 hrs 30 mins
 💻 Wallpaper Engine                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 51 mins
-🎮 Gunfire Reborn                   🕘 7 hrs 22 mins
+🎮 Gunfire Reborn                   🕘 6 hrs 42 mins
 💻 Wallpaper Engine                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

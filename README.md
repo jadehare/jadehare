@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 51 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 34 mins
-🎮 Hades                            🕘 0 hrs 40 mins
+🎮 Hades                            🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

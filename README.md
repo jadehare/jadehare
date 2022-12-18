@@ -6,7 +6,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 48 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 19 mins
 🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 7 mins
-🎮 Hades                            🕘 6 hrs 26 mins
+🎮 Hades                            🕘 7 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

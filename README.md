@@ -4,7 +4,6 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 13 mins
-🎮 Gunfire Reborn                   🕘 0 hrs 8 mins
 🎮 The Witcher 3: Wild Hunt         🕘 0 hrs 7 mins
 🎮 Hades                            🕘 8 hrs 10 mins
 ```

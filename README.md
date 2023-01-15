@@ -5,7 +5,7 @@
 ```text
 🎮 Raft                             🕘 7 hrs 2 mins
 🎮 Hades                            🕘 8 hrs 53 mins
-🎮 Phasmophobia                     🕘 1 hrs 8 mins
+🎮 Phasmophobia                     🕘 2 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

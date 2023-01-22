@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Raft                             🕘 4 hrs 29 mins
+🎮 Raft                             🕘 0 hrs 48 mins
 🎮 Hades                            🕘 11 hrs 47 mins
 🎮 Phasmophobia                     🕘 2 hrs 10 mins
 ```

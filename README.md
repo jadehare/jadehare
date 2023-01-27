@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Hades                            🕘 9 hrs 29 mins
+🎮 Hades                            🕘 8 hrs 27 mins
 🎮 Phasmophobia                     🕘 2 hrs 10 mins
-🎮 Red Dead Redemption 2            🕘 1 hrs 33 mins
+🎮 Red Dead Redemption 2            🕘 2 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

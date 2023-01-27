@@ -5,6 +5,7 @@
 ```text
 🎮 Hades                            🕘 9 hrs 29 mins
 🎮 Phasmophobia                     🕘 2 hrs 10 mins
+🎮 Red Dead Redemption 2            🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Hades                            🕘 7 hrs 1 mins
-🎮 Phasmophobia                     🕘 2 hrs 40 mins
+🎮 Phasmophobia                     🕘 3 hrs 10 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 9 mins
 🎮 Valheim                          🕘 0 hrs 55 mins
 ```

@@ -7,6 +7,7 @@
 🎮 Phasmophobia                     🕘 1 hrs 45 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 51 mins
 🎮 Valheim                          🕘 0 hrs 55 mins
+🎮 Subnautica                       🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

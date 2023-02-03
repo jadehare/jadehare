@@ -5,7 +5,7 @@
 ```text
 🎮 SteamVR                          🕘 0 hrs 6 mins
 🎮 Phasmophobia                     🕘 1 hrs 45 mins
-🎮 Red Dead Redemption 2            🕘 3 hrs 44 mins
+🎮 Red Dead Redemption 2            🕘 4 hrs 33 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins
 🎮 Valheim                          🕘 0 hrs 55 mins
 ```

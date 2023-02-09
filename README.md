@@ -6,7 +6,7 @@
 🎮 Phasmophobia                     🕘 6 hrs 6 mins
 🎮 Red Dead Redemption 2            🕘 4 hrs 53 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins
-🎮 Hogwarts Legacy                  🕘 1 hrs 2 mins
+🎮 Hogwarts Legacy                  🕘 1 hrs 14 mins
 🎮 Valheim                          🕘 0 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

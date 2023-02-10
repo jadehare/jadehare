@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Phasmophobia                     🕘 6 hrs 6 mins
-🎮 Red Dead Redemption 2            🕘 3 hrs 9 mins
+🎮 Red Dead Redemption 2            🕘 2 hrs 47 mins
 🎮 Hogwarts Legacy                  🕘 3 hrs 8 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins
 🎮 Valheim                          🕘 0 hrs 55 mins

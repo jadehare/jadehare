@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dead Cells                       🕘 0 hrs 52 mins
-🎮 Phasmophobia                     🕘 6 hrs 6 mins
+🎮 Phasmophobia                     🕘 6 hrs 38 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 47 mins
 🎮 Hogwarts Legacy                  🕘 4 hrs 41 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins

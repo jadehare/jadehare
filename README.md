@@ -6,7 +6,7 @@
 🎮 Dead Cells                       🕘 0 hrs 52 mins
 🎮 Phasmophobia                     🕘 6 hrs 6 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 47 mins
-🎮 Hogwarts Legacy                  🕘 4 hrs 2 mins
+🎮 Hogwarts Legacy                  🕘 4 hrs 41 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

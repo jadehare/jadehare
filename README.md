@@ -5,7 +5,7 @@
 ```text
 🎮 Dead Cells                       🕘 0 hrs 52 mins
 🎮 Phasmophobia                     🕘 7 hrs 7 mins
-🎮 Hogwarts Legacy                  🕘 5 hrs 12 mins
+🎮 Hogwarts Legacy                  🕘 6 hrs 17 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 43 mins
 🎮 Subnautica                       🕘 1 hrs 57 mins
 ```

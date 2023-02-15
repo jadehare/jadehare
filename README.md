@@ -5,7 +5,7 @@
 ```text
 🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 Dead Cells                       🕘 0 hrs 52 mins
-🎮 Hogwarts Legacy                  🕘 18 hrs 8 mins
+🎮 Hogwarts Legacy                  🕘 18 hrs 55 mins
 🎮 Phasmophobia                     🕘 7 hrs 7 mins
 🎮 Red Dead Redemption 2            🕘 2 hrs 1 mins
 ```

@@ -5,9 +5,9 @@
 ```text
 🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 Dead Cells                       🕘 0 hrs 52 mins
-🎮 Hogwarts Legacy                  🕘 20 hrs 49 mins
+🎮 Hogwarts Legacy                  🕘 21 hrs 19 mins
 🎮 Phasmophobia                     🕘 7 hrs 7 mins
-🎮 Red Dead Redemption 2            🕘 0 hrs 59 mins
+🎮 Red Dead Redemption 2            🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

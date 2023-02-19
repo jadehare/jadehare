@@ -5,8 +5,9 @@
 ```text
 🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 Dead Cells                       🕘 0 hrs 52 mins
-🎮 Hogwarts Legacy                  🕘 28 hrs 56 mins
+🎮 Hogwarts Legacy                  🕘 29 hrs 25 mins
 🎮 Phasmophobia                     🕘 2 hrs 46 mins
+💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

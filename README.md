@@ -5,7 +5,7 @@
 ```text
 🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 Dead Cells                       🕘 0 hrs 25 mins
-🎮 Hogwarts Legacy                  🕘 29 hrs 25 mins
+🎮 Hogwarts Legacy                  🕘 30 hrs 35 mins
 🎮 Phasmophobia                     🕘 2 hrs 46 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```

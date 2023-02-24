@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 SteamVR                          🕘 0 hrs 1 mins
-🎮 Hogwarts Legacy                  🕘 35 hrs 14 mins
+🎮 Hogwarts Legacy                  🕘 34 hrs 50 mins
 🎮 Phasmophobia                     🕘 2 hrs 46 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```

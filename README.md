@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Hogwarts Legacy                  🕘 36 hrs 37 mins
+🎮 Hogwarts Legacy                  🕘 35 hrs 46 mins
 🎮 Phasmophobia                     🕘 2 hrs 46 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```

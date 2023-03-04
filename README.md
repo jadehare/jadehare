@@ -7,7 +7,7 @@
 🎮 Hogwarts Legacy                  🕘 21 hrs 14 mins
 🎮 Phasmophobia                     🕘 5 hrs 27 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
-🎮 Sons Of The Forest               🕘 0 hrs 2 mins
+🎮 Sons Of The Forest               🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

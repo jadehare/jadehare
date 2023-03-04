@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 26 mins
 🎮 Hogwarts Legacy                  🕘 21 hrs 14 mins
-🎮 Phasmophobia                     🕘 3 hrs 30 mins
+🎮 Phasmophobia                     🕘 3 hrs 45 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

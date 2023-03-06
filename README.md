@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 26 mins
-🎮 Hogwarts Legacy                  🕘 12 hrs 8 mins
+🎮 Hogwarts Legacy                  🕘 11 hrs 18 mins
 🎮 Phasmophobia                     🕘 5 hrs 58 mins
 🎮 Sons Of The Forest               🕘 1 hrs 9 mins
 ```

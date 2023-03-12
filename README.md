@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 26 mins
 🎮 Hogwarts Legacy                  🕘 1 hrs 43 mins
-🎮 Phasmophobia                     🕘 10 hrs 4 mins
+🎮 Phasmophobia                     🕘 9 hrs 51 mins
 🎮 Sons Of The Forest               🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

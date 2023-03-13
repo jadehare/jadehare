@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Hogwarts Legacy                  🕘 0 hrs 56 mins
+🎮 Hogwarts Legacy                  🕘 0 hrs 15 mins
 🎮 Phasmophobia                     🕘 8 hrs 31 mins
 🎮 Sons Of The Forest               🕘 3 hrs 4 mins
 ```

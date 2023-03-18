@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Phasmophobia                     🕘 7 hrs 6 mins
-🎮 Sons Of The Forest               🕘 4 hrs 4 mins
+🎮 Phasmophobia                     🕘 6 hrs 34 mins
+🎮 Sons Of The Forest               🕘 4 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

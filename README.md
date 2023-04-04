@@ -6,6 +6,7 @@
 🎮 Phasmophobia                     🕘 2 hrs 51 mins
 🎮 Sons Of The Forest               🕘 1 hrs 27 mins
 🎮 Golf With Your Friends           🕘 1 hrs 33 mins
+🎮 MHRD                             🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

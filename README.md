@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 6 hrs 17 mins
 🎮 Phasmophobia                     🕘 2 hrs 51 mins
-🎮 Sons Of The Forest               🕘 1 hrs 30 mins
+🎮 Sons Of The Forest               🕘 2 hrs 31 mins
 🎮 Golf With Your Friends           🕘 1 hrs 33 mins
 🎮 MHRD                             🕘 0 hrs 1 mins
 ```

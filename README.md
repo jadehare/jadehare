@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 10 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 17 mins
-🎮 Phasmophobia                     🕘 2 hrs 51 mins
+🎮 Phasmophobia                     🕘 2 hrs 36 mins
 🎮 Sons Of The Forest               🕘 2 hrs 48 mins
 🎮 Golf With Your Friends           🕘 1 hrs 33 mins
 ```

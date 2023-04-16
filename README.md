@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 10 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 17 mins
 🎮 Sons Of The Forest               🕘 2 hrs 48 mins
-🎮 Golf With Your Friends           🕘 1 hrs 11 mins
+🎮 Golf With Your Friends           🕘 0 hrs 15 mins
 🎮 MHRD                             🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

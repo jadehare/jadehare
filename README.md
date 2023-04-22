@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 14 hrs 21 mins
+🎮 Dota 2                           🕘 13 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 42 mins
-🎮 Phasmophobia                     🕘 0 hrs 30 mins
+🎮 Phasmophobia                     🕘 1 hrs 31 mins
 🎮 Sons Of The Forest               🕘 2 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

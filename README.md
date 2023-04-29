@@ -5,7 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 19 hrs 28 mins
 🔫 Counter-Strike: Global Offensive 🕘 1 hrs 56 mins
-🎮 Phasmophobia                     🕘 3 hrs 24 mins
+🎮 Phasmophobia                     🕘 3 hrs 47 mins
+🎮 Sons Of The Forest               🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

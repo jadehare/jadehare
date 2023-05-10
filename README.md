@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 20 hrs 19 mins
-🔫 Counter-Strike: Global Offensive 🕘 4 hrs 37 mins
+🔫 Counter-Strike: Global Offensive 🕘 4 hrs 35 mins
 🎮 Phasmophobia                     🕘 3 hrs 47 mins
 🎮 Sons Of The Forest               🕘 2 hrs 48 mins
 ```

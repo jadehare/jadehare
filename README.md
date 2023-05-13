@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 16 hrs 44 mins
-🔫 Counter-Strike: Global Offensive 🕘 4 hrs 7 mins
+🎮 Dota 2                           🕘 17 hrs 14 mins
+🔫 Counter-Strike: Global Offensive 🕘 3 hrs 12 mins
 🎮 Phasmophobia                     🕘 1 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

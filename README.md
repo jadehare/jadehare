@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 18 hrs 38 mins
-🔫 Counter-Strike: Global Offensive 🕘 2 hrs 8 mins
+🔫 Counter-Strike: Global Offensive 🕘 1 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

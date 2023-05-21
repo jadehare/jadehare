@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 14 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 14 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 16 mins
-🎮 The Outlast Trials               🕘 0 hrs 17 mins
+🎮 The Outlast Trials               🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

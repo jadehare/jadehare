@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 19 hrs 4 mins
+🎮 Dota 2                           🕘 19 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 16 mins
 🎮 ELDEN RING                       🕘 0 hrs 58 mins
-🎮 Phasmophobia                     🕘 1 hrs 0 mins
+🎮 Phasmophobia                     🕘 1 hrs 52 mins
 🎮 The Outlast Trials               🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -7,7 +7,7 @@
 🎮 Gunfire Reborn                   🕘 2 hrs 50 mins
 🎮 ELDEN RING                       🕘 0 hrs 58 mins
 🎮 Phasmophobia                     🕘 3 hrs 36 mins
-🎮 DREDGE                           🕘 4 hrs 32 mins
+🎮 DREDGE                           🕘 5 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

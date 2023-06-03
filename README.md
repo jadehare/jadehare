@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 21 hrs 25 mins
 🎮 ELDEN RING                       🕘 0 hrs 58 mins
 🎮 Phasmophobia                     🕘 3 hrs 36 mins
-🎮 DREDGE                           🕘 1 hrs 56 mins
+🎮 DREDGE                           🕘 2 hrs 17 mins
 🎮 The Outlast Trials               🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

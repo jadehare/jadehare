@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 22 hrs 50 mins
+🎮 Dota 2                           🕘 22 hrs 44 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 50 mins
 🎮 Phasmophobia                     🕘 3 hrs 36 mins
-🎮 DREDGE                           🕘 6 hrs 14 mins
+🎮 DREDGE                           🕘 7 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

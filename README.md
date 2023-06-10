@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 14 hrs 43 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 50 mins
 🎮 Phasmophobia                     🕘 1 hrs 44 mins
-🎮 DREDGE                           🕘 9 hrs 37 mins
+🎮 DREDGE                           🕘 10 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 9 hrs 33 mins
-🎮 DREDGE                           🕘 1 hrs 50 mins
+🎮 Dota 2                           🕘 9 hrs 12 mins
+🎮 DREDGE                           🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

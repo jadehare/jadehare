@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 10 hrs 32 mins
 🎮 DAVE THE DIVER                   🕘 2 hrs 29 mins
-🎮 Remnant 2                        🕘 4 hrs 9 mins
+🎮 Remnant 2                        🕘 5 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

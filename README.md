@@ -4,8 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 10 hrs 32 mins
-🎮 Remnant 2                        🕘 8 hrs 8 mins
-🎮 DAVE THE DIVER                   🕘 2 hrs 29 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 22 mins
+🎮 Remnant 2                        🕘 8 hrs 26 mins
+🎮 DAVE THE DIVER                   🕘 2 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

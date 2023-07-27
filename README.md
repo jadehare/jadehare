@@ -5,8 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 10 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 22 mins
-🎮 Remnant II                       🕘 20 hrs 39 mins
-🎮 DAVE THE DIVER                   🕘 1 hrs 32 mins
+🎮 Remnant II                       🕘 21 hrs 40 mins
+🎮 DAVE THE DIVER                   🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

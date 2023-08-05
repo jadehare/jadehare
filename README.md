@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 8 hrs 30 mins
+🎮 Dota 2                           🕘 9 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 22 mins
-🎮 Remnant II                       🕘 32 hrs 7 mins
+🎮 Remnant II                       🕘 31 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

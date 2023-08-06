@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 10 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 22 mins
-🎮 Remnant II                       🕘 26 hrs 33 mins
+🎮 Remnant II                       🕘 25 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

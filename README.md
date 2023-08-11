@@ -6,6 +6,7 @@
 🎮 Dota 2                           🕘 15 hrs 6 mins
 🎮 Remnant II                       🕘 9 hrs 51 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 4 hrs 11 mins
+🎮 Overwatch® 2                     🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 16 hrs 24 mins
-🎮 Remnant II                       🕘 5 hrs 53 mins
+🎮 Remnant II                       🕘 5 hrs 49 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 4 hrs 11 mins
 🎮 Overwatch® 2                     🕘 1 hrs 3 mins
 ```

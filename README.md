@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 21 hrs 33 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 1 hrs 53 mins
+🎮 Dota 2                           🕘 21 hrs 10 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 1 hrs 43 mins
 🎮 Overwatch® 2                     🕘 2 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

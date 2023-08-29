@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 15 hrs 53 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Overwatch® 2                     🕘 0 hrs 58 mins
+🎮 Overwatch® 2                     🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

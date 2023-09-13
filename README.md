@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 16 hrs 50 mins
+🎮 Dota 2                           🕘 16 hrs 54 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 2 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Baldur's Gate 3                  🕘 2 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

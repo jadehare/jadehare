@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 13 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 0 hrs 2 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Baldur's Gate 3                  🕘 3 hrs 29 mins
+🎮 Baldur's Gate 3                  🕘 3 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

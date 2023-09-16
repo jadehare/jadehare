@@ -4,7 +4,6 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 9 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 2 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Baldur's Gate 3                  🕘 4 hrs 37 mins
 ```

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 2 hrs 14 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 43 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Baldur's Gate 3                  🕘 4 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

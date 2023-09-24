@@ -7,7 +7,7 @@
 🎮 Gunfire Reborn                   🕘 4 hrs 13 mins
 🎮 Cyberpunk 2077                   🕘 7 hrs 7 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Baldur's Gate 3                  🕘 3 hrs 32 mins
+🎮 Baldur's Gate 3                  🕘 2 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

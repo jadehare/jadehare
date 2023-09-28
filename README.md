@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 5 hrs 30 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 22 mins
 🎮 Cyberpunk 2077                   🕘 7 hrs 7 mins
-🎮 Baldur's Gate 3                  🕘 0 hrs 57 mins
+🎮 Baldur's Gate 3                  🕘 0 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

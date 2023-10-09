@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 18 hrs 22 mins
-🎮 DREDGE                           🕘 0 hrs 11 mins
+🎮 DREDGE                           🕘 0 hrs 39 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

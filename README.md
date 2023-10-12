@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 1 hrs 25 mins
 🔫 Counter-Strike 2                 🕘 12 hrs 52 mins
 🎮 Loop Hero                        🕘 0 hrs 47 mins
-🎮 DREDGE                           🕘 1 hrs 55 mins
+🎮 DREDGE                           🕘 2 hrs 30 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

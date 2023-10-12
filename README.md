@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 25 mins
 🔫 Counter-Strike 2                 🕘 15 hrs 27 mins
-🎮 Loop Hero                        🕘 0 hrs 18 mins
+🎮 Loop Hero                        🕘 0 hrs 47 mins
 🎮 DREDGE                           🕘 1 hrs 31 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```

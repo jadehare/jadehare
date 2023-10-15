@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 10 hrs 59 mins
 🎮 Loop Hero                        🕘 1 hrs 26 mins
 🎮 DREDGE                           🕘 3 hrs 11 mins
-🎮 Brotato                          🕘 1 hrs 47 mins
+🎮 Brotato                          🕘 1 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

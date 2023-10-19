@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 4 mins
-🔫 Counter-Strike 2                 🕘 8 hrs 9 mins
+🔫 Counter-Strike 2                 🕘 7 hrs 19 mins
 🎮 Loop Hero                        🕘 2 hrs 38 mins
 🎮 DREDGE                           🕘 3 hrs 11 mins
 🎮 Brotato                          🕘 1 hrs 50 mins
+🎮 ASTLIBRA ～生きた証～ Revision   🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -7,7 +7,7 @@
 🎮 Loop Hero                        🕘 2 hrs 48 mins
 🎮 DREDGE                           🕘 3 hrs 11 mins
 🎮 Brotato                          🕘 1 hrs 50 mins
-🎮 ASTLIBRA ～生きた証～ Revision   🕘 0 hrs 7 mins
+🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

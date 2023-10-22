@@ -5,7 +5,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 6 hrs 29 mins
 🎮 Loop Hero                        🕘 2 hrs 48 mins
-🎮 DREDGE                           🕘 3 hrs 11 mins
+🎮 DREDGE                           🕘 3 hrs 6 mins
 🎮 Brotato                          🕘 1 hrs 50 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins
 ```

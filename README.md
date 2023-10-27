@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike 2                 🕘 8 hrs 10 mins
-🎮 Loop Hero                        🕘 2 hrs 1 mins
+🎮 Loop Hero                        🕘 1 hrs 59 mins
 🎮 DREDGE                           🕘 0 hrs 41 mins
 🎮 Brotato                          🕘 1 hrs 50 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins

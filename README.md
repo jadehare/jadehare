@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 6 hrs 23 mins
 🎮 Loop Hero                        🕘 1 hrs 22 mins
 🎮 Brotato                          🕘 1 hrs 50 mins
-🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins
+🎮 Control Ultimate Edition         🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

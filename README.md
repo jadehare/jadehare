@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 30 mins
+🎮 Dota 2                           🕘 1 hrs 18 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 20 mins
 🎮 Loop Hero                        🕘 1 hrs 22 mins
 🎮 Brotato                          🕘 1 hrs 50 mins

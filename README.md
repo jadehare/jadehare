@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 1 hrs 46 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 1 mins
 🎮 Loop Hero                        🕘 1 hrs 22 mins
-🎮 Brotato                          🕘 1 hrs 50 mins
+🎮 Brotato                          🕘 1 hrs 29 mins
 🎮 Control Ultimate Edition         🕘 1 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

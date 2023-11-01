@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 59 mins
-🎮 Loop Hero                        🕘 0 hrs 49 mins
+🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins
 🎮 Control Ultimate Edition         🕘 1 hrs 36 mins
 🎮 Strange Brigade                  🕘 0 hrs 56 mins
 ```

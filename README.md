@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 1 hrs 50 mins
-🔫 Counter-Strike 2                 🕘 8 hrs 40 mins
+🔫 Counter-Strike 2                 🕘 8 hrs 58 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 43 mins
 🎮 Control Ultimate Edition         🕘 1 hrs 36 mins
 🎮 Strange Brigade                  🕘 0 hrs 56 mins

@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 1 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 6 hrs 35 mins
 🎮 Control Ultimate Edition         🕘 1 hrs 36 mins
-🎮 Strange Brigade                  🕘 0 hrs 56 mins
+🎮 Strange Brigade                  🕘 1 hrs 27 mins
 🎮 Alan Wake                        🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

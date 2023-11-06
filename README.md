@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 1 hrs 42 mins
+🎮 Dota 2                           🕘 1 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 42 mins
 🎮 Strange Brigade                  🕘 2 hrs 12 mins
 🎮 Control Ultimate Edition         🕘 1 hrs 36 mins

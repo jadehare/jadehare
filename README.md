@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 8 hrs 17 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Strange Brigade                  🕘 2 hrs 12 mins
-🎮 Control Ultimate Edition         🕘 1 hrs 36 mins
+🎮 Control Ultimate Edition         🕘 1 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

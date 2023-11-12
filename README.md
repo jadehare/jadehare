@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 1 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 6 hrs 42 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 Risk of Rain Returns             🕘 2 hrs 31 mins
 🎮 Strange Brigade                  🕘 2 hrs 12 mins
-🎮 Risk of Rain Returns             🕘 1 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

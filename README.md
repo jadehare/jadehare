@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 6 hrs 42 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Risk of Rain Returns             🕘 3 hrs 56 mins
 🎮 Strange Brigade                  🕘 2 hrs 12 mins
 ```

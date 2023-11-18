@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 59 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 43 mins
-🎮 Remnant II                       🕘 2 hrs 31 mins
+🎮 Remnant II                       🕘 2 hrs 59 mins
 🎮 Risk of Rain Returns             🕘 3 hrs 56 mins
 🎮 Strange Brigade                  🕘 1 hrs 15 mins
 ```

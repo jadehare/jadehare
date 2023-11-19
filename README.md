@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 59 mins
-🔫 Counter-Strike 2                 🕘 4 hrs 26 mins
-🎮 Remnant II                       🕘 2 hrs 59 mins
+🔫 Counter-Strike 2                 🕘 3 hrs 55 mins
+🎮 Remnant II                       🕘 4 hrs 0 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Risk of Rain Returns             🕘 3 hrs 56 mins
 ```

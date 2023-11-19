@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 4 hrs 43 mins
 🎮 Remnant II                       🕘 2 hrs 59 mins
 🎮 Risk of Rain Returns             🕘 3 hrs 56 mins
-🎮 Strange Brigade                  🕘 1 hrs 15 mins
+🎮 Strange Brigade                  🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

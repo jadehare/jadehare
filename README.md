@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🔫 Counter-Strike 2                 🕘 2 hrs 31 mins
+🔫 Counter-Strike 2                 🕘 2 hrs 25 mins
 🎮 Remnant II                       🕘 7 hrs 32 mins
 🎮 DREDGE                           🕘 0 hrs 1 mins
 🎮 ShareX                           🕘 0 hrs 2 mins

@@ -7,7 +7,7 @@
 🎮 Remnant II                       🕘 9 hrs 31 mins
 🎮 DREDGE                           🕘 0 hrs 1 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Risk of Rain Returns             🕘 2 hrs 28 mins
+🎮 Risk of Rain Returns             🕘 2 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

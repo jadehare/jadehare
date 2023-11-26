@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1 hrs 42 mins
-🎮 Remnant II                       🕘 8 hrs 32 mins
+🎮 Remnant II                       🕘 9 hrs 31 mins
 🎮 DREDGE                           🕘 0 hrs 1 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Risk of Rain Returns             🕘 3 hrs 24 mins
+🎮 Risk of Rain Returns             🕘 2 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 8 hrs 25 mins
-🔫 Counter-Strike 2                 🕘 2 hrs 56 mins
+🎮 Dota 2                           🕘 9 hrs 10 mins
+🔫 Counter-Strike 2                 🕘 2 hrs 9 mins
 🎮 Remnant II                       🕘 10 hrs 24 mins
 🎮 DREDGE                           🕘 0 hrs 1 mins
 🎮 Risk of Rain Returns             🕘 1 hrs 42 mins

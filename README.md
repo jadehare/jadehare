@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 14 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 40 mins
-🎮 Remnant II                       🕘 6 hrs 8 mins
+🎮 Remnant II                       🕘 5 hrs 8 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Risk of Rain Returns             🕘 1 hrs 42 mins
 ```

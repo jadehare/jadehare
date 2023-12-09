@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 1 hrs 18 mins
 🎮 Remnant II                       🕘 2 hrs 52 mins
 🎮 Risk of Rain Returns             🕘 1 hrs 42 mins
-🎮 Wizard with a Gun                🕘 1 hrs 0 mins
+🎮 Wizard with a Gun                🕘 1 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

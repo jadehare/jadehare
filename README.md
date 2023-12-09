@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 19 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 18 mins
 🎮 Remnant II                       🕘 2 hrs 52 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Risk of Rain Returns             🕘 1 hrs 42 mins
+🎮 Wizard with a Gun                🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

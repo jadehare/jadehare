@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 23 hrs 43 mins
+🎮 Dota 2                           🕘 23 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 41 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Devil May Cry 5                  🕘 0 hrs 33 mins

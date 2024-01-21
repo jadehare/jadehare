@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 16 hrs 44 mins
 🎮 Gunfire Reborn                   🕘 0 hrs 4 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Baldur's Gate 3                  🕘 0 hrs 26 mins
+🎮 Baldur's Gate 3                  🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

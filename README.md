@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 14 hrs 34 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Palworld                         🕘 6 hrs 45 mins
+🎮 Palworld                         🕘 6 hrs 55 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

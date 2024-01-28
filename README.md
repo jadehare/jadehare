@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 12 hrs 23 mins
+🎮 Dota 2                           🕘 11 hrs 52 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Palworld                         🕘 8 hrs 53 mins
+🎮 Palworld                         🕘 9 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

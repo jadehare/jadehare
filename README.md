@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 7 hrs 51 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 32 mins
-🎮 Palworld                         🕘 18 hrs 26 mins
+🎮 Palworld                         🕘 18 hrs 6 mins
 🎮 Palworld Dedicated Server        🕘 16 hrs 32 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 ```

@@ -5,8 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 13 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 30 mins
-🎮 Palworld                         🕘 11 hrs 52 mins
-🎮 Palworld Dedicated Server        🕘 13 hrs 6 mins
+🎮 Palworld                         🕘 11 hrs 1 mins
+🎮 Palworld Dedicated Server        🕘 12 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 2 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

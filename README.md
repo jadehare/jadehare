@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 8 hrs 51 mins
-🔫 Counter-Strike 2                 🕘 2 hrs 54 mins
+🔫 Counter-Strike 2                 🕘 2 hrs 46 mins
 🎮 Palworld                         🕘 13 hrs 29 mins
 🎮 Palworld Dedicated Server        🕘 14 hrs 43 mins
-🎮 HELLDIVERS™ 2                    🕘 7 hrs 44 mins
+🎮 HELLDIVERS™ 2                    🕘 8 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

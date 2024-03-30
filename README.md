@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 6 hrs 53 mins
 🎮 Palworld                         🕘 0 hrs 3 mins
-🎮 HELLDIVERS™ 2                    🕘 26 hrs 51 mins
+🎮 HELLDIVERS™ 2                    🕘 27 hrs 53 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 3 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```

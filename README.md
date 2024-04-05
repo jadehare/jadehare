@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 10 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 19 mins
-🎮 HELLDIVERS™ 2                    🕘 29 hrs 35 mins
+🎮 HELLDIVERS™ 2                    🕘 29 hrs 19 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

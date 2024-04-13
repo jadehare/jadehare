@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 16 hrs 16 mins
-🔫 Counter-Strike 2                 🕘 2 hrs 4 mins
+🔫 Counter-Strike 2                 🕘 1 hrs 41 mins
 🎮 HELLDIVERS™ 2                    🕘 16 hrs 14 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```

@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 12 hrs 53 mins
 🔫 Counter-Strike 2                 🕘 2 hrs 17 mins
 🎮 HELLDIVERS™ 2                    🕘 5 hrs 17 mins
-🎮 ELDEN RING                       🕘 3 hrs 38 mins
+🎮 ELDEN RING                       🕘 4 hrs 23 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

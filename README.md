@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 2 hrs 25 mins
 🎮 HELLDIVERS™ 2                    🕘 3 hrs 10 mins
 🎮 ELDEN RING                       🕘 6 hrs 11 mins
-🎮 ShareX                           🕘 0 hrs 3 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

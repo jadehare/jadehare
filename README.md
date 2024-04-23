@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 15 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 2 hrs 52 mins
-🎮 HELLDIVERS™ 2                    🕘 2 hrs 39 mins
+🎮 HELLDIVERS™ 2                    🕘 2 hrs 15 mins
 🎮 ELDEN RING                       🕘 6 hrs 11 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```

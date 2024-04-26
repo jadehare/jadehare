@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 15 hrs 10 mins
+🎮 Dota 2                           🕘 14 hrs 57 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 26 mins
 🎮 HELLDIVERS™ 2                    🕘 0 hrs 58 mins
 🎮 ELDEN RING                       🕘 6 hrs 11 mins

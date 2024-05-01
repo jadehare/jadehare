@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 16 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 55 mins
 🎮 ELDEN RING                       🕘 3 hrs 19 mins
-🎮 Remnant II                       🕘 1 hrs 51 mins
+🎮 Remnant II                       🕘 2 hrs 52 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

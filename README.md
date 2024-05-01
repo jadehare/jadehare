@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 4 hrs 55 mins
 🎮 ELDEN RING                       🕘 3 hrs 19 mins
 🎮 Remnant II                       🕘 3 hrs 16 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 Spanky!                          🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

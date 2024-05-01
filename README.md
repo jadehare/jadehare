@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 17 hrs 52 mins
-🔫 Counter-Strike 2                 🕘 5 hrs 25 mins
+🔫 Counter-Strike 2                 🕘 5 hrs 30 mins
 🎮 ELDEN RING                       🕘 3 hrs 19 mins
 🎮 Remnant II                       🕘 3 hrs 16 mins
 🎮 Spanky!                          🕘 0 hrs 3 mins

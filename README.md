@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 22 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 9 mins
 🎮 ELDEN RING                       🕘 2 hrs 52 mins
-🎮 Remnant II                       🕘 3 hrs 16 mins
+🎮 Remnant II                       🕘 4 hrs 17 mins
 🎮 Spanky!                          🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

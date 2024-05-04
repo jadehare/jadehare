@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 21 hrs 51 mins
-🔫 Counter-Strike 2                 🕘 4 hrs 38 mins
+🎮 Dota 2                           🕘 20 hrs 54 mins
+🔫 Counter-Strike 2                 🕘 5 hrs 16 mins
 🎮 ELDEN RING                       🕘 0 hrs 59 mins
 🎮 Remnant II                       🕘 4 hrs 45 mins
 🎮 Spanky!                          🕘 0 hrs 3 mins

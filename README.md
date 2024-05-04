@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 21 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 38 mins
-🎮 ELDEN RING                       🕘 1 hrs 47 mins
+🎮 ELDEN RING                       🕘 0 hrs 59 mins
 🎮 Remnant II                       🕘 4 hrs 45 mins
 🎮 Spanky!                          🕘 0 hrs 3 mins
 ```

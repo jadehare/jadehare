@@ -5,8 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 21 hrs 16 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 41 mins
+🎮 HELLDIVERS™ 2                    🕘 0 hrs 4 mins
 🎮 Remnant II                       🕘 4 hrs 45 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Spanky!                          🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

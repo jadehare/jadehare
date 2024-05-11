@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 20 hrs 41 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 3 mins
 🎮 HELLDIVERS™ 2                    🕘 0 hrs 4 mins
-🎮 Remnant II                       🕘 5 hrs 26 mins
+🎮 Remnant II                       🕘 4 hrs 44 mins
 🎮 Hades II                         🕘 2 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

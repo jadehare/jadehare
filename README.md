@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 1 hrs 0 mins
 🎮 HELLDIVERS™ 2                    🕘 0 hrs 4 mins
 🎮 Remnant II                       🕘 0 hrs 40 mins
-🎮 Hades II                         🕘 4 hrs 25 mins
+🎮 Hades II                         🕘 4 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

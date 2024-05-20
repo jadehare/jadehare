@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 0 hrs 22 mins
 🎮 Remnant II                       🕘 0 hrs 40 mins
 🎮 Hades II                         🕘 6 hrs 23 mins
-🎮 Another Crab's Treasure          🕘 0 hrs 9 mins
+🎮 Another Crab's Treasure          🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 15 hrs 14 mins
-🔫 Counter-Strike 2                 🕘 0 hrs 3 mins
 🎮 Remnant II                       🕘 0 hrs 40 mins
+🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Hades II                         🕘 6 hrs 23 mins
 🎮 Another Crab's Treasure          🕘 3 hrs 6 mins
 ```

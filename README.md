@@ -7,7 +7,7 @@
 🎮 Remnant II                       🕘 0 hrs 40 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Hades II                         🕘 6 hrs 23 mins
-🎮 Another Crab's Treasure          🕘 3 hrs 6 mins
+🎮 Another Crab's Treasure          🕘 3 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

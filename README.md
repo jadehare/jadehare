@@ -3,11 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 14 hrs 22 mins
-🎮 Remnant II                       🕘 0 hrs 40 mins
+🎮 Dota 2                           🕘 14 hrs 18 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Hades II                         🕘 4 hrs 29 mins
-🎮 Another Crab's Treasure          🕘 4 hrs 15 mins
+🎮 Another Crab's Treasure          🕘 4 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

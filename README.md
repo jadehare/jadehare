@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 5 hrs 9 mins
-🎮 Another Crab's Treasure          🕘 18 hrs 58 mins
+🎮 Another Crab's Treasure          🕘 19 hrs 58 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Hades II                         🕘 1 hrs 57 mins
 ```

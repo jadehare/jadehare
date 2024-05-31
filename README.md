@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 4 hrs 46 mins
 🎮 Another Crab's Treasure          🕘 20 hrs 12 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Hades II                         🕘 1 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

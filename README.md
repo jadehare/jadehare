@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 5 hrs 57 mins
+🎮 Dota 2                           🕘 6 hrs 30 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 23 mins
-🎮 Another Crab's Treasure          🕘 16 hrs 50 mins
+🎮 Another Crab's Treasure          🕘 16 hrs 24 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

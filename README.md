@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 9 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 58 mins
-🎮 Another Crab's Treasure          🕘 11 hrs 37 mins
+🎮 Another Crab's Treasure          🕘 10 hrs 40 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

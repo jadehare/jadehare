@@ -5,6 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 12 hrs 35 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 16 mins
+🎮 ELDEN RING                       🕘 0 hrs 1 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

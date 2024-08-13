@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 17 hrs 17 mins
+🎮 Dota 2                           🕘 17 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 57 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Dark Hours: Prologue             🕘 0 hrs 23 mins
+🎮 Black Myth: Wukong Benchmark Tool 🕘 0 hrs 5 mins
 🎮 Dark Hours Demo                  🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 10 hrs 57 mins
+🎮 Dota 2                           🕘 11 hrs 58 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 33 mins
-🎮 Black Myth: Wukong               🕘 15 hrs 8 mins
+🎮 Black Myth: Wukong               🕘 14 hrs 8 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

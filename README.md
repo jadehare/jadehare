@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 15 hrs 39 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 33 mins
-🎮 Black Myth: Wukong               🕘 11 hrs 47 mins
+🎮 Black Myth: Wukong               🕘 12 hrs 5 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

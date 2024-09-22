@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 25 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 56 mins
 🎮 Black Myth: Wukong               🕘 14 hrs 35 mins
-🎮 Cyberpunk 2077                   🕘 1 hrs 18 mins
+🎮 Cyberpunk 2077                   🕘 1 hrs 56 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

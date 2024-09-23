@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 24 hrs 43 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 56 mins
-🎮 Black Myth: Wukong               🕘 14 hrs 35 mins
+🎮 Black Myth: Wukong               🕘 14 hrs 20 mins
 🎮 Cyberpunk 2077                   🕘 2 hrs 37 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```

@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 30 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 56 mins
 🎮 Black Myth: Wukong               🕘 12 hrs 17 mins
-🎮 Remnant II                       🕘 0 hrs 30 mins
+🎮 Remnant II                       🕘 1 hrs 31 mins
 🎮 Cyberpunk 2077                   🕘 8 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

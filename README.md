@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 24 hrs 52 mins
+🎮 Dota 2                           🕘 24 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 59 mins
 🎮 Black Myth: Wukong               🕘 9 hrs 17 mins
 🎮 Remnant II                       🕘 2 hrs 22 mins
-🎮 Cyberpunk 2077                   🕘 11 hrs 20 mins
+🎮 Cyberpunk 2077                   🕘 11 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

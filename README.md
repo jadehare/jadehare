@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 0 hrs 56 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 22 mins
 🎮 Remnant II                       🕘 7 hrs 55 mins
-🎮 Cyberpunk 2077                   🕘 20 hrs 28 mins
+🎮 Cyberpunk 2077                   🕘 20 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

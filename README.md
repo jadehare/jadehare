@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 33 hrs 41 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 14 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 22 mins
-🎮 Cyberpunk 2077                   🕘 30 hrs 19 mins
+🎮 Cyberpunk 2077                   🕘 30 hrs 39 mins
 🎮 Remnant II                       🕘 5 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

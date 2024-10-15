@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 34 hrs 48 mins
+🎮 Dota 2                           🕘 34 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 14 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 22 mins
 🎮 Cyberpunk 2077                   🕘 26 hrs 44 mins
-🎮 Remnant II                       🕘 2 hrs 33 mins
+🎮 Remnant II                       🕘 1 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

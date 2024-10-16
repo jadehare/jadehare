@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 33 hrs 36 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 14 mins
-🎮 Gunfire Reborn                   🕘 1 hrs 45 mins
+🎮 Gunfire Reborn                   🕘 0 hrs 46 mins
 🎮 Cyberpunk 2077                   🕘 24 hrs 26 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 ```

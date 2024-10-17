@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 34 hrs 18 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 14 mins
-🎮 Cyberpunk 2077                   🕘 22 hrs 14 mins
+🎮 Cyberpunk 2077                   🕘 21 hrs 47 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

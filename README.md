@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 30 hrs 31 mins
-🎮 Cyberpunk 2077                   🕘 12 hrs 4 mins
+🎮 Dota 2                           🕘 30 hrs 20 mins
+🎮 Cyberpunk 2077                   🕘 11 hrs 57 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

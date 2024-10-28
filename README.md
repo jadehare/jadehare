@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 19 hrs 20 mins
-🎮 Gunfire Reborn                   🕘 2 hrs 17 mins
+🎮 Gunfire Reborn                   🕘 3 hrs 17 mins
 🎮 Cyberpunk 2077                   🕘 23 hrs 17 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 ```

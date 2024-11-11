@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 25 hrs 37 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 0 mins
-🎮 Cyberpunk 2077                   🕘 11 hrs 52 mins
+🎮 Cyberpunk 2077                   🕘 11 hrs 13 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

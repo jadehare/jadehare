@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 27 hrs 56 mins
+🎮 Dota 2                           🕘 27 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 30 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 0 mins
 🎮 Cyberpunk 2077                   🕘 4 hrs 42 mins

@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 0 hrs 56 mins
 🎮 Cyberpunk 2077                   🕘 6 hrs 15 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Balatro                          🕘 3 hrs 8 mins
+🎮 Balatro                          🕘 3 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

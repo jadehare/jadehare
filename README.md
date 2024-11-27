@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 1 hrs 40 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 59 mins
 🎮 Cyberpunk 2077                   🕘 5 hrs 41 mins
-🎮 Balatro                          🕘 12 hrs 3 mins
+🎮 Balatro                          🕘 12 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

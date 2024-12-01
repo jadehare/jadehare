@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 13 hrs 31 mins
-🔫 Counter-Strike 2                 🕘 2 hrs 14 mins
+🔫 Counter-Strike 2                 🕘 2 hrs 46 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 59 mins
-🎮 Cyberpunk 2077                   🕘 3 hrs 57 mins
+🎮 Cyberpunk 2077                   🕘 3 hrs 2 mins
 🎮 Balatro                          🕘 19 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

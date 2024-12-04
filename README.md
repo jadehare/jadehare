@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 12 hrs 46 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 33 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 59 mins
-🎮 Cyberpunk 2077                   🕘 0 hrs 48 mins
 🎮 Balatro                          🕘 23 hrs 39 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

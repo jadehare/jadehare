@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 14 hrs 54 mins
+🎮 Dota 2                           🕘 14 hrs 48 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 54 mins
 🎮 Gunfire Reborn                   🕘 1 hrs 59 mins
 🎮 Balatro                          🕘 21 hrs 48 mins
-🎮 Content Warning                  🕘 1 hrs 0 mins
+🎮 Content Warning                  🕘 1 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

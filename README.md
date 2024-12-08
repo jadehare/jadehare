@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 11 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 36 mins
-🎮 Balatro                          🕘 15 hrs 25 mins
+🎮 Balatro                          🕘 15 hrs 24 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
 🎮 Marvel Rivals                    🕘 0 hrs 31 mins
 ```

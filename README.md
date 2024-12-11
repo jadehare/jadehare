@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 5 hrs 1 mins
 🎮 Balatro                          🕘 10 hrs 39 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
-🎮 Forza Horizon 5                  🕘 0 hrs 31 mins
+🎮 Forza Horizon 5                  🕘 1 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

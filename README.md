@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 9 hrs 49 mins
+🎮 Dota 2                           🕘 9 hrs 40 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 56 mins
-🎮 Balatro                          🕘 9 hrs 2 mins
+🎮 Balatro                          🕘 8 hrs 31 mins
 🎮 Forza Horizon 5                  🕘 2 hrs 46 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
 ```

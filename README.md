@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 8 hrs 30 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 19 mins
-🎮 Balatro                          🕘 3 hrs 44 mins
+🎮 Balatro                          🕘 2 hrs 41 mins
 🎮 Forza Horizon 5                  🕘 2 hrs 46 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
 ```

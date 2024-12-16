@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 8 hrs 30 mins
-🔫 Counter-Strike 2                 🕘 5 hrs 34 mins
-🎮 Balatro                          🕘 1 hrs 6 mins
+🔫 Counter-Strike 2                 🕘 5 hrs 20 mins
+🎮 Balatro                          🕘 0 hrs 50 mins
 🎮 Forza Horizon 5                  🕘 2 hrs 46 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
 ```

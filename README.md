@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 11 hrs 18 mins
-🔫 Counter-Strike 2                 🕘 5 hrs 49 mins
+🔫 Counter-Strike 2                 🕘 5 hrs 27 mins
 🎮 Forza Horizon 5                  🕘 2 hrs 46 mins
 🎮 Content Warning                  🕘 1 hrs 46 mins
-🎮 Marvel Rivals                    🕘 0 hrs 13 mins
+🎮 Cookie Clicker                   🕘 0 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

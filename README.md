@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 8 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 28 mins
-🎮 Cookie Clicker                   🕘 37 hrs 22 mins
+🎮 Cookie Clicker                   🕘 38 hrs 23 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Forza Horizon 5                  🕘 2 hrs 46 mins
 ```

@@ -5,9 +5,9 @@
 ```text
 🎮 Dota 2                           🕘 8 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 6 hrs 31 mins
-🎮 Cookie Clicker                   🕘 44 hrs 3 mins
+🎮 Cookie Clicker                   🕘 45 hrs 13 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Forza Horizon 5                  🕘 2 hrs 14 mins
+🎮 Forza Horizon 5                  🕘 1 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

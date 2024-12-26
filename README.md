@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 6 hrs 31 mins
 🎮 Cookie Clicker                   🕘 46 hrs 7 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Forza Horizon 5                  🕘 1 hrs 8 mins
+🎮 Forza Horizon 5                  🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

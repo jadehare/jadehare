@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 6 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 37 mins
-🎮 Cookie Clicker                   🕘 49 hrs 59 mins
+🎮 Cookie Clicker                   🕘 48 hrs 59 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

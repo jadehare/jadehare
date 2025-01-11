@@ -7,6 +7,7 @@
 🔫 Counter-Strike 2                 🕘 3 hrs 16 mins
 🎮 Cookie Clicker                   🕘 37 hrs 42 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 Cube Escape Collection           🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

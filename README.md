@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 2 hrs 48 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 38 mins
-🎮 Cookie Clicker                   🕘 33 hrs 19 mins
+🎮 Cookie Clicker                   🕘 32 hrs 20 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
 🎮 Cube Escape Collection           🕘 0 hrs 34 mins
 ```

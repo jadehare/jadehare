@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 10 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 4 hrs 38 mins
 🎮 Cookie Clicker                   🕘 20 hrs 39 mins
+🎮 Ready or Not                     🕘 0 hrs 35 mins
 🎮 Cube Escape Collection           🕘 0 hrs 34 mins
-🎮 Ready or Not                     🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

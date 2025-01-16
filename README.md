@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 11 hrs 22 mins
+🎮 Dota 2                           🕘 12 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 40 mins
 🎮 Cookie Clicker                   🕘 20 hrs 39 mins
-🎮 Ready or Not                     🕘 3 hrs 4 mins
+🎮 Ready or Not                     🕘 3 hrs 27 mins
 🎮 Cube Escape Collection           🕘 0 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

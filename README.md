@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 15 hrs 51 mins
+🎮 Dota 2                           🕘 16 hrs 52 mins
 🔫 Counter-Strike 2                 🕘 8 hrs 53 mins
-🎮 Cookie Clicker                   🕘 10 hrs 48 mins
+🎮 Cookie Clicker                   🕘 10 hrs 22 mins
 🎮 Ready or Not                     🕘 3 hrs 28 mins
 🎮 Cube Escape Collection           🕘 0 hrs 34 mins
 ```

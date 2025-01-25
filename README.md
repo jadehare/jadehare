@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 22 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 38 mins
-🎮 Cookie Clicker                   🕘 1 hrs 28 mins
+🎮 Cookie Clicker                   🕘 0 hrs 27 mins
 🎮 Ready or Not                     🕘 4 hrs 47 mins
 🎮 Cube Escape Collection           🕘 0 hrs 34 mins
 ```

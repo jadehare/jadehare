@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 22 hrs 10 mins
-🔫 Counter-Strike 2                 🕘 6 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 6 hrs 40 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Ready or Not                     🕘 4 hrs 47 mins
-🎮 Cube Escape Collection           🕘 0 hrs 34 mins
+🎮 Cube Escape Collection           🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

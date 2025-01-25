@@ -7,7 +7,6 @@
 🔫 Counter-Strike 2                 🕘 6 hrs 40 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Ready or Not                     🕘 4 hrs 47 mins
-🎮 Cube Escape Collection           🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

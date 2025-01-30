@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 11 hrs 58 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 3 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Ready or Not                     🕘 2 hrs 33 mins
+🎮 Ready or Not                     🕘 1 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 8 hrs 27 mins
-🔫 Counter-Strike 2                 🕘 3 hrs 32 mins
-🎮 Palworld                         🕘 5 hrs 12 mins
+🔫 Counter-Strike 2                 🕘 3 hrs 31 mins
+🎮 Palworld                         🕘 5 hrs 42 mins
 🎮 Ready or Not                     🕘 3 hrs 5 mins
 🎮 Marvel Rivals                    🕘 3 hrs 23 mins
 ```

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 13 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 31 mins
-🎮 Palworld                         🕘 19 hrs 2 mins
+🎮 Palworld                         🕘 19 hrs 33 mins
 🎮 Ready or Not                     🕘 4 hrs 9 mins
 🎮 Marvel Rivals                    🕘 3 hrs 23 mins
 ```

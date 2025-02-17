@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 1 hrs 32 mins
 🎮 Palworld                         🕘 19 hrs 51 mins
 🎮 Ready or Not                     🕘 4 hrs 9 mins
-🎮 Marvel Rivals                    🕘 3 hrs 23 mins
+🎮 Marvel Rivals                    🕘 2 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

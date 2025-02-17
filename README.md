@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 12 hrs 46 mins
+🎮 Dota 2                           🕘 12 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 32 mins
 🎮 Palworld                         🕘 19 hrs 51 mins
 🎮 Ready or Not                     🕘 4 hrs 9 mins

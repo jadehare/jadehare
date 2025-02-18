@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 9 hrs 24 mins
 🎮 Palworld                         🕘 19 hrs 34 mins
 🎮 Ready or Not                     🕘 2 hrs 21 mins
-🎮 Marvel Rivals                    🕘 2 hrs 6 mins
+🎮 Marvel Rivals                    🕘 1 hrs 6 mins
 🎮 Enshrouded                       🕘 0 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

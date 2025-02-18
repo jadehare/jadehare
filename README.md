@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 9 hrs 43 mins
+🎮 Dota 2                           🕘 9 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 1 hrs 32 mins
 🎮 Palworld                         🕘 19 hrs 34 mins
-🎮 Ready or Not                     🕘 3 hrs 2 mins
+🎮 Ready or Not                     🕘 2 hrs 21 mins
 🎮 Marvel Rivals                    🕘 2 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

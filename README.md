@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 11 hrs 18 mins
+🎮 Dota 2                           🕘 12 hrs 25 mins
 🎮 Palworld                         🕘 20 hrs 2 mins
 🎮 Ready or Not                     🕘 2 hrs 21 mins
 🎮 Marvel Rivals                    🕘 0 hrs 14 mins

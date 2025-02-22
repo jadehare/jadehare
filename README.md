@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 12 hrs 25 mins
 🎮 Palworld                         🕘 20 hrs 41 mins
-🎮 Ready or Not                     🕘 2 hrs 48 mins
+🎮 Ready or Not                     🕘 3 hrs 47 mins
 🎮 Marvel Rivals                    🕘 0 hrs 14 mins
 🎮 Enshrouded                       🕘 0 hrs 47 mins
 ```

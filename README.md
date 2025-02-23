@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 11 hrs 2 mins
 🎮 Palworld                         🕘 20 hrs 41 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Ready or Not                     🕘 3 hrs 47 mins
+🎮 Ready or Not                     🕘 3 hrs 42 mins
 🎮 Enshrouded                       🕘 0 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

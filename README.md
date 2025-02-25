@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 11 hrs 1 mins
-🎮 Palworld                         🕘 17 hrs 25 mins
+🎮 Palworld                         🕘 17 hrs 41 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Ready or Not                     🕘 2 hrs 29 mins
 ```

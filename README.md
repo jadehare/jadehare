@@ -7,6 +7,7 @@
 🎮 Palworld                         🕘 15 hrs 23 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Ready or Not                     🕘 1 hrs 25 mins
+🎮 Baldur's Gate 3                  🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

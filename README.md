@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 13 hrs 24 mins
-🎮 Palworld                         🕘 15 hrs 46 mins
-🎮 ShareX                           🕘 0 hrs 3 mins
+🎮 Dota 2                           🕘 13 hrs 54 mins
+🎮 Palworld                         🕘 15 hrs 45 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Ready or Not                     🕘 1 hrs 25 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 24 mins
 ```

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 13 hrs 24 mins
 🎮 Palworld                         🕘 14 hrs 53 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Ready or Not                     🕘 1 hrs 25 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 24 mins
 ```

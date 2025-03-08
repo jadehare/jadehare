@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 9 hrs 24 mins
-🎮 Palworld                         🕘 13 hrs 6 mins
+🎮 Palworld                         🕘 12 hrs 43 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Ready or Not                     🕘 1 hrs 25 mins
+🎮 Ready or Not                     🕘 0 hrs 53 mins
 🎮 Baldur's Gate 3                  🕘 1 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

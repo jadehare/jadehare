@@ -7,7 +7,7 @@
 🎮 Palworld                         🕘 12 hrs 43 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Baldur's Gate 3                  🕘 1 hrs 28 mins
-🎮 The Spell Brigade                🕘 0 hrs 13 mins
+🎮 The Spell Brigade                🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

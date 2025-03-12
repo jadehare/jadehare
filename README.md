@@ -6,8 +6,8 @@
 🎮 Dota 2                           🕘 10 hrs 31 mins
 🎮 Palworld                         🕘 8 hrs 4 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 The Spell Brigade                🕘 7 hrs 38 mins
 🎮 Baldur's Gate 3                  🕘 1 hrs 28 mins
-🎮 The Spell Brigade                🕘 6 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 10 hrs 31 mins
-🎮 Palworld                         🕘 8 hrs 4 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 The Spell Brigade                🕘 10 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
+🎮 Palworld                         🕘 7 hrs 9 mins
+🎮 The Spell Brigade                🕘 10 hrs 59 mins
 🎮 Baldur's Gate 3                  🕘 1 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

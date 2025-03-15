@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
 🎮 Palworld                         🕘 3 hrs 13 mins
 🎮 The Spell Brigade                🕘 15 hrs 26 mins
-🎮 Baldur's Gate 3                  🕘 1 hrs 4 mins
+🎮 Baldur's Gate 3                  🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,8 +5,8 @@
 ```text
 🎮 Dota 2                           🕘 5 hrs 53 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
-🎮 Palworld                         🕘 1 hrs 35 mins
-🎮 The Spell Brigade                🕘 15 hrs 42 mins
+🎮 Palworld                         🕘 1 hrs 8 mins
+🎮 The Spell Brigade                🕘 16 hrs 38 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

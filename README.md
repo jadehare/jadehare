@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 4 hrs 55 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
-🎮 Cyberpunk 2077                   🕘 0 hrs 43 mins
+🎮 Cyberpunk 2077                   🕘 1 hrs 0 mins
 🎮 The Spell Brigade                🕘 17 hrs 50 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 ```

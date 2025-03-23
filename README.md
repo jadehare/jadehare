@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 4 hrs 55 mins
+🎮 Dota 2                           🕘 5 hrs 25 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 27 mins
 🎮 The Spell Brigade                🕘 17 hrs 36 mins

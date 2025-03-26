@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 5 hrs 24 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 17 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 27 mins
-🎮 The Spell Brigade                🕘 9 hrs 10 mins
+🎮 The Spell Brigade                🕘 8 hrs 14 mins
 🎮 Satisfactory                     🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

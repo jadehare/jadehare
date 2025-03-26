@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 4 hrs 20 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 27 mins
-🎮 The Spell Brigade                🕘 7 hrs 58 mins
+🎮 The Spell Brigade                🕘 7 hrs 26 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Satisfactory                     🕘 0 hrs 37 mins
 ```

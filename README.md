@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 6 hrs 27 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 27 mins
 🎮 The Spell Brigade                🕘 4 hrs 44 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Satisfactory                     🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

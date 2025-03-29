@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 5 hrs 54 mins
+🎮 Dota 2                           🕘 5 hrs 50 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 27 mins
 🎮 The Spell Brigade                🕘 4 hrs 44 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Satisfactory                     🕘 0 hrs 37 mins
+🎮 Valheim                          🕘 0 hrs 13 mins
+🎮 Satisfactory                     🕘 1 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

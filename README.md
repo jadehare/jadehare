@@ -4,8 +4,8 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 8 hrs 34 mins
-🎮 Cyberpunk 2077                   🕘 2 hrs 42 mins
-🎮 The Spell Brigade                🕘 3 hrs 15 mins
+🎮 Cyberpunk 2077                   🕘 3 hrs 37 mins
+🎮 The Spell Brigade                🕘 3 hrs 3 mins
 🎮 Satisfactory                     🕘 1 hrs 24 mins
 🎮 Valheim                          🕘 0 hrs 13 mins
 ```

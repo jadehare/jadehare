@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 13 hrs 8 mins
+🎮 Dota 2                           🕘 14 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 26 mins
 🎮 Cyberpunk 2077                   🕘 2 hrs 9 mins
 🎮 Split Fiction                    🕘 1 hrs 37 mins

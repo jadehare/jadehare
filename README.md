@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 15 hrs 51 mins
-🔫 Counter-Strike 2                 🕘 3 hrs 30 mins
+🔫 Counter-Strike 2                 🕘 4 hrs 31 mins
 🎮 Cyberpunk 2077                   🕘 2 hrs 9 mins
 🎮 Split Fiction                    🕘 1 hrs 37 mins
 🎮 Satisfactory                     🕘 0 hrs 46 mins

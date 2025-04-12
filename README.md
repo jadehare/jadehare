@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 6 hrs 8 mins
 🎮 Cyberpunk 2077                   🕘 2 hrs 9 mins
 🎮 Split Fiction                    🕘 1 hrs 37 mins
-🎮 Satisfactory                     🕘 0 hrs 46 mins
+🎮 R.E.P.O.                         🕘 0 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

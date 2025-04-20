@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 18 hrs 39 mins
+🎮 Dota 2                           🕘 19 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 9 hrs 40 mins
 🎮 Cyberpunk 2077                   🕘 1 hrs 41 mins
-🎮 Split Fiction                    🕘 1 hrs 58 mins
+🎮 Split Fiction                    🕘 0 hrs 58 mins
 🎮 Crime Boss: Rockay City          🕘 0 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

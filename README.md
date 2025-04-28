@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 16 hrs 26 mins
-🔫 Counter-Strike 2                 🕘 7 hrs 49 mins
+🔫 Counter-Strike 2                 🕘 7 hrs 39 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 13 mins
 🎮 Split Fiction                    🕘 0 hrs 39 mins
 🎮 Crime Boss: Rockay City          🕘 1 hrs 15 mins

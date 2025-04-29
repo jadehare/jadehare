@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 16 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 31 mins
-🎮 Cyberpunk 2077                   🕘 0 hrs 13 mins
+🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Split Fiction                    🕘 0 hrs 39 mins
 🎮 Crime Boss: Rockay City          🕘 1 hrs 15 mins
 ```

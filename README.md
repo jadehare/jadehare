@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 23 hrs 3 mins
+🎮 Dota 2                           🕘 22 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 59 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Crime Boss: Rockay City          🕘 2 hrs 59 mins

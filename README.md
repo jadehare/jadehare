@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 25 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 49 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 28 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Crime Boss: Rockay City          🕘 1 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

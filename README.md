@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 2 hrs 33 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 28 mins
 🎮 DOOM Eternal                     🕘 0 hrs 42 mins
-🎮 Crime Boss: Rockay City          🕘 1 hrs 14 mins
+🎮 Crime Boss: Rockay City          🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

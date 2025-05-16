@@ -4,7 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 20 hrs 38 mins
-🔫 Counter-Strike 2                 🕘 0 hrs 57 mins
+🔫 Counter-Strike 2                 🕘 1 hrs 28 mins
 🎮 Cyberpunk 2077                   🕘 0 hrs 28 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 DOOM Eternal                     🕘 0 hrs 42 mins

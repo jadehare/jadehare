@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 17 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 5 hrs 37 mins
-🎮 ShareX                           🕘 0 hrs 3 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 DOOM Eternal                     🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

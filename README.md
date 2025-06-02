@@ -5,6 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 22 hrs 46 mins
 🔫 Counter-Strike 2                 🕘 9 hrs 33 mins
+🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 DOOM Eternal                     🕘 0 hrs 12 mins
 ```

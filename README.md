@@ -3,11 +3,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 23 hrs 39 mins
-🔫 Counter-Strike 2                 🕘 7 hrs 35 mins
-🎮 SteamVR                          🕘 0 hrs 1 mins
+🎮 Dota 2                           🕘 24 hrs 58 mins
+🔫 Counter-Strike 2                 🕘 7 hrs 21 mins
 🎮 Balatro                          🕘 2 hrs 56 mins
 🎮 ShareX                           🕘 0 hrs 3 mins
+🎮 Warhammer 40,000: Space Marine 2 🕘 0 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

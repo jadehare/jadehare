@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 13 hrs 45 mins
-🔫 Counter-Strike 2                 🕘 5 hrs 26 mins
+🔫 Counter-Strike 2                 🕘 4 hrs 18 mins
 🎮 Balatro                          🕘 2 hrs 56 mins
-🎮 Stellar Blade™                   🕘 2 hrs 48 mins
+🎮 Stellar Blade™                   🕘 3 hrs 42 mins
 🎮 Warhammer 40,000: Space Marine 2 🕘 2 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

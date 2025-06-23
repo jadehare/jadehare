@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 13 hrs 4 mins
-🔫 Counter-Strike 2                 🕘 4 hrs 18 mins
-🎮 Stellar Blade™                   🕘 5 hrs 27 mins
-🎮 Warhammer 40,000: Space Marine 2 🕘 2 hrs 1 mins
+🎮 Dota 2                           🕘 12 hrs 2 mins
+🔫 Counter-Strike 2                 🕘 3 hrs 2 mins
+🎮 Stellar Blade™                   🕘 7 hrs 26 mins
+🎮 Warhammer 40,000: Space Marine 2 🕘 1 hrs 19 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 0 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

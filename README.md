@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 14 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 2 mins
-🎮 Stellar Blade™                   🕘 7 hrs 26 mins
+🎮 Stellar Blade™                   🕘 8 hrs 36 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 0 hrs 57 mins
 🎮 PEAK                             🕘 0 hrs 11 mins
 ```

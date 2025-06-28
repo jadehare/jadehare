@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 14 hrs 49 mins
-🔫 Counter-Strike 2                 🕘 3 hrs 2 mins
-🎮 Stellar Blade™                   🕘 8 hrs 36 mins
+🎮 Dota 2                           🕘 14 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 2 hrs 51 mins
+🎮 Stellar Blade™                   🕘 9 hrs 7 mins
 🎮 ELDEN RING NIGHTREIGN            🕘 0 hrs 57 mins
 🎮 PEAK                             🕘 0 hrs 11 mins
 ```

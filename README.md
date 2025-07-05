@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 17 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 3 hrs 0 mins
-🎮 Stellar Blade™                   🕘 11 hrs 28 mins
+🎮 Stellar Blade™                   🕘 13 hrs 4 mins
 🎮 V Rising                         🕘 0 hrs 32 mins
 🎮 PEAK                             🕘 0 hrs 11 mins
 ```

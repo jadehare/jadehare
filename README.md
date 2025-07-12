@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 16 hrs 3 mins
-🔫 Counter-Strike 2                 🕘 3 hrs 0 mins
-🎮 Stellar Blade™                   🕘 11 hrs 21 mins
+🎮 Dota 2                           🕘 16 hrs 56 mins
+🔫 Counter-Strike 2                 🕘 1 hrs 27 mins
+🎮 Stellar Blade™                   🕘 10 hrs 30 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 V Rising                         🕘 0 hrs 32 mins
 ```

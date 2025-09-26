@@ -6,7 +6,7 @@
 🎮 Dota 2                           🕘 9 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 27 mins
 🎮 It Takes Two                     🕘 0 hrs 4 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

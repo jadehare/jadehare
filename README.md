@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 27 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 16 mins
-🎮 Split Fiction                    🕘 3 hrs 39 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Age of Empires III: Definitive Edition 🕘 1 hrs 1 mins
 🎮 Nobody Saves the World           🕘 0 hrs 14 mins
 ```

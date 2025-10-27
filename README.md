@@ -5,6 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 7 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 10 mins
+🎮 Gunfire Reborn                   🕘 3 hrs 29 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
 🎮 Heroes of Might and Magic: Olden Era Demo 🕘 0 hrs 15 mins
 ```

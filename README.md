@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 7 hrs 2 mins
 🎮 Gunfire Reborn                   🕘 2 hrs 24 mins
-🎮 ShareX                           🕘 0 hrs 2 mins
+🎮 ShareX                           🕘 0 hrs 3 mins
 🎮 Split Fiction                    🕘 1 hrs 23 mins
 🎮 Escape from Duckov               🕘 0 hrs 12 mins
 ```

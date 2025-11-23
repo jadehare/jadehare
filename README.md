@@ -3,9 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 5 hrs 20 mins
+🎮 Dota 2                           🕘 5 hrs 10 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 Split Fiction                    🕘 4 hrs 15 mins
+🎮 Split Fiction                    🕘 3 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 1 hrs 46 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Split Fiction                    🕘 3 hrs 43 mins
+🎮 Split Fiction                    🕘 0 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

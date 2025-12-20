@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 25 mins
+🎮 Dota 2                           🕘 4 hrs 21 mins
 🎮 Hidden Folks                     🕘 0 hrs 1 mins
 🎮 Split Fiction                    🕘 2 hrs 27 mins
 🎮 ShareX                           🕘 0 hrs 1 mins

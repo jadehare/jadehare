@@ -7,6 +7,7 @@
 🎮 Hidden Folks                     🕘 0 hrs 1 mins
 🎮 Split Fiction                    🕘 2 hrs 27 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
+🎮 Cube Escape Collection           🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

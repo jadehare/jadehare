@@ -5,9 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 23 mins
 🎮 Split Fiction                    🕘 2 hrs 33 mins
-🎮 Hidden Folks                     🕘 0 hrs 1 mins
-🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Cube Escape Collection           🕘 0 hrs 6 mins
+🎮 ShareX                           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

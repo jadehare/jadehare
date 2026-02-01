@@ -5,7 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 28 mins
 🎮 ShareX                           🕘 0 hrs 2 mins
-🎮 PowerWash Simulator              🕘 3 hrs 12 mins
+🎮 PowerWash Simulator              🕘 3 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

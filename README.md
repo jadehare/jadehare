@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 34 mins
 🎮 ShareX                           🕘 0 hrs 1 mins
-🎮 Goblin Sushi                     🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

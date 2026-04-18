@@ -3,7 +3,6 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Palworld                         🕘 0 hrs 11 mins
 🎮 Split Fiction                    🕘 1 hrs 15 mins
 🎮 Super Bunny Man                  🕘 0 hrs 42 mins
 ```

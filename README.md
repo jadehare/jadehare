@@ -5,6 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 2 hrs 44 mins
 🎮 Split Fiction                    🕘 7 hrs 44 mins
+🎮 MOUSE: P.I. For Hire             🕘 0 hrs 44 mins
 🎮 Super Bunny Man                  🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

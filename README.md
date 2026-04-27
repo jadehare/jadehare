@@ -4,10 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🎮 Dota 2                           🕘 2 hrs 44 mins
-🎮 Split Fiction                    🕘 7 hrs 44 mins
+🎮 Split Fiction                    🕘 7 hrs 59 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 33 mins
-🎮 MOUSE: P.I. For Hire             🕘 0 hrs 44 mins
-🎮 Super Bunny Man                  🕘 0 hrs 42 mins
+🎮 MOUSE: P.I. For Hire             🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

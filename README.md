@@ -5,6 +5,7 @@
 ```text
 🎮 Dota 2                           🕘 2 hrs 44 mins
 🎮 Split Fiction                    🕘 7 hrs 59 mins
+🎮 DREDGE                           🕘 2 hrs 36 mins
 🎮 Baldur's Gate 3                  🕘 0 hrs 33 mins
 🎮 MOUSE: P.I. For Hire             🕘 0 hrs 45 mins
 ```

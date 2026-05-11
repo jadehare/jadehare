@@ -3,9 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Split Fiction                    🕘 1 hrs 30 mins
 🎮 DREDGE                           🕘 2 hrs 51 mins
-🎮 MOUSE: P.I. For Hire             🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

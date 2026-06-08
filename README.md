@@ -6,6 +6,7 @@
 🔫 Counter-Strike 2                 🕘 0 hrs 36 mins
 🎮 DREDGE                           🕘 0 hrs 1 mins
 🎮 Another Crab's Treasure          🕘 0 hrs 11 mins
+🎮 It Takes Two                     🕘 1 hrs 3 mins
 🎮 DAVE THE DIVER                   🕘 0 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

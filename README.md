@@ -4,9 +4,9 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🔫 Counter-Strike 2                 🕘 7 hrs 17 mins
-🎮 SteamVR                          🕘 0 hrs 1 mins
 🎮 Phasmophobia                     🕘 0 hrs 7 mins
-🎮 It Takes Two                     🕘 5 hrs 47 mins
+🎮 It Takes Two                     🕘 4 hrs 1 mins
+🎮 The Spell Brigade                🕘 0 hrs 35 mins
 🎮 Volcano Princess                 🕘 0 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

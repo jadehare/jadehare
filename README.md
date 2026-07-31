@@ -6,7 +6,7 @@
 🔫 Counter-Strike 2                 🕘 7 hrs 17 mins
 🎮 Phasmophobia                     🕘 0 hrs 7 mins
 🎮 It Takes Two                     🕘 4 hrs 1 mins
-🎮 The Spell Brigade                🕘 1 hrs 10 mins
+🎮 The Spell Brigade                🕘 2 hrs 52 mins
 🎮 Volcano Princess                 🕘 0 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

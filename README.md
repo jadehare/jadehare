@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 4 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 17 mins
-🎮 Phasmophobia                     🕘 0 hrs 7 mins
 🎮 The Spell Brigade                🕘 6 hrs 37 mins
 🎮 It Takes Two                     🕘 4 hrs 1 mins
 🎮 Volcano Princess                 🕘 0 hrs 38 mins

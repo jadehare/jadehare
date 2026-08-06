@@ -5,9 +5,9 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 6 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 7 hrs 23 mins
-🎮 Phasmophobia                     🕘 0 hrs 7 mins
 🎮 The Spell Brigade                🕘 21 hrs 30 mins
 🎮 It Takes Two                     🕘 4 hrs 1 mins
+🎮 DOOM: The Dark Ages              🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

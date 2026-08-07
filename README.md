@@ -7,7 +7,7 @@
 🔫 Counter-Strike 2                 🕘 7 hrs 23 mins
 🎮 The Spell Brigade                🕘 21 hrs 30 mins
 🎮 It Takes Two                     🕘 4 hrs 1 mins
-🎮 DOOM: The Dark Ages              🕘 0 hrs 56 mins
+🎮 DOOM: The Dark Ages              🕘 2 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

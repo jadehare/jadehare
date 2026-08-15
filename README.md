@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 8 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 5 mins
-🎮 The Spell Brigade                🕘 18 hrs 37 mins
+🎮 The Spell Brigade                🕘 14 hrs 52 mins
 🎮 It Takes Two                     🕘 3 hrs 29 mins
 🎮 DOOM: The Dark Ages              🕘 2 hrs 1 mins
 ```

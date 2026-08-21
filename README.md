@@ -5,7 +5,6 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 48 mins
 🎮 It Takes Two                     🕘 3 hrs 29 mins
-🎮 DOOM: The Dark Ages              🕘 1 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -3,7 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Black Myth: Wukong               🕘 1 hrs 8 mins
+🎮 Black Myth: Wukong               🕘 0 hrs 14 mins
 🎮 It Takes Two                     🕘 4 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

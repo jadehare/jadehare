@@ -6,7 +6,7 @@
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 5 mins
 🎮 The Spell Brigade                🕘 5 hrs 44 mins
 🎮 Hogwarts Legacy                  🕘 0 hrs 13 mins
-🎮 Control Ultimate Edition         🕘 6 hrs 40 mins
+🎮 Control Ultimate Edition         🕘 9 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

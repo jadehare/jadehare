@@ -4,10 +4,10 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 5 mins
-🎮 Gunfire Reborn                   🕘 2 hrs 20 mins
+🎮 Gunfire Reborn                   🕘 5 hrs 27 mins
 🎮 The Spell Brigade                🕘 0 hrs 38 mins
 🎮 Hogwarts Legacy                  🕘 0 hrs 13 mins
-🎮 Control Ultimate Edition         🕘 17 hrs 49 mins
+🎮 Control Ultimate Edition         🕘 18 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

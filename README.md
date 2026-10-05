@@ -7,7 +7,7 @@
 🎮 Gunfire Reborn                   🕘 5 hrs 27 mins
 🎮 The Spell Brigade                🕘 0 hrs 38 mins
 🎮 Hogwarts Legacy                  🕘 0 hrs 13 mins
-🎮 Control Ultimate Edition         🕘 18 hrs 53 mins
+🎮 Control Ultimate Edition         🕘 19 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 5 mins
 🎮 Gunfire Reborn                   🕘 5 hrs 27 mins
-🎮 The Spell Brigade                🕘 0 hrs 38 mins
+🎮 The Witcher 3: Wild Hunt — Remastered 🕘 0 hrs 13 mins
 🎮 Hogwarts Legacy                  🕘 0 hrs 13 mins
 🎮 Control Ultimate Edition         🕘 25 hrs 28 mins
 ```

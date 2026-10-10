@@ -7,7 +7,7 @@
 🎮 Gunfire Reborn                   🕘 5 hrs 27 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 0 hrs 13 mins
 🎮 Hogwarts Legacy                  🕘 0 hrs 13 mins
-🎮 Control Ultimate Edition         🕘 25 hrs 28 mins
+🎮 Control Ultimate Edition         🕘 21 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

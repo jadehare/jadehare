@@ -3,10 +3,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
+🎮 Dota 2                           🕘 0 hrs 1 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 13 mins
-🎮 Gunfire Reborn                   🕘 3 hrs 7 mins
-🎮 The Witcher 3: Wild Hunt — Remastered 🕘 0 hrs 13 mins
-🎮 Control Ultimate Edition         🕘 7 hrs 39 mins
+🎮 The Binding of Isaac: Rebirth    🕘 0 hrs 8 mins
+🎮 Control Ultimate Edition         🕘 6 hrs 35 mins
 🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

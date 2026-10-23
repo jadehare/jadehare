@@ -5,7 +5,6 @@
 ```text
 🎮 Dota 2                           🕘 0 hrs 1 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 4 hrs 57 mins
-🎮 The Binding of Isaac: Rebirth    🕘 0 hrs 8 mins
 🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

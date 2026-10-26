@@ -3,9 +3,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 1 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 4 hrs 57 mins
-🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 28 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

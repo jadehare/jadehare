@@ -5,6 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 2 hrs 43 mins
 🎮 Phantom Blade Zero               🕘 0 hrs 59 mins
+🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

@@ -4,6 +4,7 @@
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1 hrs 47 mins
+🎮 The Spell Brigade                🕘 1 hrs 30 mins
 🎮 Phantom Blade Zero               🕘 0 hrs 59 mins
 🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 25 mins
 🎮 Vampire Survivors                🕘 0 hrs 39 mins

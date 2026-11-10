@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 4 hrs 24 mins
 🎮 The Spell Brigade                🕘 6 hrs 6 mins
-🎮 Phantom Blade Zero               🕘 4 hrs 4 mins
+🎮 Phantom Blade Zero               🕘 5 hrs 22 mins
 🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 25 mins
 🎮 Vampire Survivors                🕘 0 hrs 39 mins
 ```

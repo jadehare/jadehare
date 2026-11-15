@@ -3,10 +3,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PUBG: BATTLEGROUNDS              🕘 4 hrs 24 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 6 hrs 30 mins
 🎮 The Spell Brigade                🕘 6 hrs 6 mins
-🎮 Phantom Blade Zero               🕘 4 hrs 22 mins
-🎮 Clive Barker's Hellraiser: Revival 🕘 0 hrs 25 mins
+🎮 Phantom Blade Zero               🕘 9 hrs 43 mins
 🎮 Vampire Survivors                🕘 0 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->

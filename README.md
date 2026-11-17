@@ -5,7 +5,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 5 hrs 58 mins
 🎮 The Spell Brigade                🕘 6 hrs 6 mins
-🎮 Phantom Blade Zero               🕘 15 hrs 23 mins
+🎮 Phantom Blade Zero               🕘 19 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

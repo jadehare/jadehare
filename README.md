@@ -3,8 +3,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/14533c16fc1440db3e01f655bd6a8970" target="_blank">🎮 Steam recent playtime</a>
 ```text
-🍳 PUBG: BATTLEGROUNDS              🕘 5 hrs 58 mins
-🎮 The Spell Brigade                🕘 3 hrs 28 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 3 hrs 21 mins
+🎮 The Spell Brigade                🕘 4 hrs 31 mins
 🎮 Phantom Blade Zero               🕘 21 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
